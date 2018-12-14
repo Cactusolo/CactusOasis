@@ -1,0 +1,47 @@
+---
+title: Ploting Florida
+author: Miao Sun
+date: '2018-12-14'
+slug: ploting-florida
+categories:
+  - R
+tags:
+  - R Markdown
+  - plot
+  - Florida
+image:
+  caption: ''
+  focal_point: ''
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Ploting Florida
+
+Today, I learned some "Spatial Analysis" R packages (e.g., _ggmap_, _tigris_) from the last workshop of 8-week-long workshop series ---  [R for the Social Sciences Weekly Workshops](https://informatics.institute.ufl.edu/event/introduction-to-r-for-the-social-sciences-weekly-workshops-fall-2018/). It was a really great workshop! I leared a lot of **R** and **Stats** (e.g., Linear Models, Generalized Linear Models, autocorrelation, etc), even though the topics were more focused on Social Sciences. 
+
+Thanks to Raffaele Vacca, Tom Smith, and Till Krenz!  
+
+Here are some quick and simple code to plot Florida:
+
+```{r echo=TRUE}
+library(ggplot2)
+library(tidyverse)
+
+# Get the shape data for the state of Florida and We need more detailed shape data to show county borders
+flr <- map_data("county") %>% 
+  filter(region == "florida")
+
+# Create a ggplot object that we can add layers to.
+flr_plot <- 
+  ggplot(data = flr, mapping = aes(x = long, y = lat)) + 
+  geom_map(map = flr, color = "orange", fill = "blue",
+           aes(map_id=region)) + 
+  coord_quickmap()
+
+flr_plot
+
+#of course, we can do more stuff, like adding county names...
+```
+

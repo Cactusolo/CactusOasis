@@ -1,0 +1,4 @@
+*.Rproj
+public/
+.Rproj.user/
+.Rproj.user
