@@ -1,0 +1,141 @@
+---
+title: Plotting Christmas Tree
+author: Miao Sun
+date: '2018-12-17'
+slug: plotting-christmas-tree
+categories:
+  - R
+tags:
+  - Xsmas
+  - Open Tree of Life
+  - Tree
+  - Gymnosperm
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+
+<p><img src="/Christmas_Tree/2018-12-17-plotting-christmas-tree_files/Xsmas.jpg" alt="Christmas Tree" /> I saw a figure of all potential Christmas tree tree <a href="https://twitter.com/Polypompholyx/status/1074351911581728770?s=05">Polypompholyx’s Tweet</a>.</p>
+<p>It looks strange for my first impression. So I did a quick check from <a href="https://tree.opentreeoflife.org/opentree/argus/opentree10.4@ott93302">Open Tree</a>. This looks much better!</p>
+<p>See code below:</p>
+<pre class="r"><code>rm(list=ls())
+
+# install.packages(&quot;rotl&quot;)
+# install.packages(&quot;ape&quot;)
+
+#loading libraries
+library(&quot;rotl&quot;) #for querying open tree database
+library(&quot;ape&quot;) #for tree manipulation
+## Warning: package &#39;ape&#39; was built under R version 3.4.4
+
+#First I preapred a table for those potential **Christmas Trees** with first column is common names,a nd second column is the scientific names
+# then we read in the table as a query list to the Open Tree
+
+query &lt;- read.csv(&quot;XsmasTree.csv&quot;, header=TRUE, sep=&quot;,&quot;, stringsAsFactors=FALSE, quote=&quot;&quot;)
+# check what our table look like this
+head(query)
+##    Common_name Scientific_name_rept.
+## 1   Korean fir         Abies koreana
+## 2   Fraser fir         Abies fraseri
+## 3   Balsam fir        Abies balsamea
+## 4 Nordmann fir    Abies nordmanniana
+## 5    Noble fir         Abies procera
+## 6    Grand fir         Abies grandis
+
+#query names and get ottid
+species &lt;- tnrs_match_names(names = query$Scientific_name_rept.)
+## Warning in strptime(x, fmt, tz = &quot;GMT&quot;): unknown timezone &#39;zone/tz/2018g.
+## 1.0/zoneinfo/America/New_York&#39;
+
+#check results
+head(species)
+##        search_string        unique_name approximate_match ott_id
+## 1      abies koreana      Abies koreana             FALSE 876314
+## 2      abies fraseri      Abies fraseri             FALSE 876317
+## 3     abies balsamea     Abies balsamea             FALSE 883527
+## 4 abies nordmanniana Abies nordmanniana             FALSE 876306
+## 5      abies procera      Abies procera             FALSE 876302
+## 6      abies grandis      Abies grandis             FALSE 343179
+##   is_synonym flags number_matches
+## 1      FALSE                    2
+## 2      FALSE                    1
+## 3      FALSE                    1
+## 4      FALSE                    1
+## 5      FALSE                    1
+## 6      FALSE                    2
+#fix fuzzy match on row 16, then updated it 
+new_species&lt;- update(species, row_number=16, new_ott_id = 248313)
+
+#checking object
+head(new_species)
+##        search_string        unique_name approximate_match ott_id
+## 1      abies koreana      Abies koreana             FALSE 876314
+## 2      abies fraseri      Abies fraseri             FALSE 876317
+## 3     abies balsamea     Abies balsamea             FALSE 883527
+## 4 abies nordmanniana Abies nordmanniana             FALSE 876306
+## 5      abies procera      Abies procera             FALSE 876302
+## 6      abies grandis      Abies grandis             FALSE 343179
+##   is_synonym flags number_matches
+## 1      FALSE                    2
+## 2      FALSE                    1
+## 3      FALSE                    1
+## 4      FALSE                    1
+## 5      FALSE                    1
+## 6      FALSE                    2
+species &lt;- new_species
+species.ottid &lt;- ott_id(species)
+
+
+#extracting the phylogeny summarized in the Open tree
+tree &lt;- tol_induced_subtree(ott_ids=species$ott_id, label_format = &quot;name&quot;)
+## 
+Progress [----------------------------------] 0/71 (  0) ?s
+Progress [================================] 71/71 (100)  0s
+                                                            
+## Warning in collapse_singles(tr): Dropping singleton nodes with labels:
+## mrcaott237ott8444, Pinales, mrcaott8444ott97777, mrcaott8444ott837877,
+## mrcaott8444ott227575, mrcaott8444ott263471, mrcaott8444ott217130,
+## mrcaott8449ott8452, mrcaott8449ott181913, mrcaott104512ott111015,
+## mrcaott111015ott217123, mrcaott111015ott113478, mrcaott111015ott212459,
+## mrcaott111015ott237074, mrcaott217118ott263433, Strobus,
+## mrcaott61771ott212453, mrcaott61771ott568623, mrcaott61771ott568616,
+## mrcaott568616ott799605, mrcaott8454ott659110, Picea, mrcaott8454ott771664,
+## mrcaott8454ott363879, mrcaott8454ott1040417, mrcaott8454ott262757,
+## mrcaott8454ott36932, mrcaott39085ott46841, mrcaott39085ott513925,
+## mrcaott39085ott248313, mrcaott248427ott771681, mrcaott62995ott129176,
+## Pseudotsuga, mrcaott622660ott992628, mrcaott622660ott994179,
+## mrcaott9094ott39083, mrcaott9094ott225230, mrcaott140066ott648453,
+## mrcaott140066ott876310, mrcaott140066ott855657, mrcaott140066ott887363,
+## mrcaott887363ott1025900, mrcaott301372ott844780, mrcaott301372ott301375,
+## mrcaott301375ott413015, mrcaott301375ott838044, mrcaott838044ott876311,
+## mrcaott876317ott5478613, mrcaott343179ott648454, mrcaott343179ott978668,
+## mrcaott343179ott648452, mrcaott343179ott648457, mrcaott343179ott5455927,
+## mrcaott343179ott876315, mrcaott876302ott876303, Cedrus,
+## mrcaott924430ott1080542, mrcaott11392ott994084, Cycadidae, Cycadales,
+## Cycas, mrcaott11394ott834476, mrcaott11394ott388636, mrcaott11394ott39086,
+## mrcaott11394ott99246, mrcaott11394ott894059, mrcaott11394ott420128,
+## mrcaott11394ott894065, mrcaott11394ott99243, mrcaott99243ott582842,
+## mrcaott582842ott834472
+
+#make it looks good
+tree &lt;- ladderize(tree)
+plot.phylo(tree, cex=0.8)</code></pre>
+<p><img src="/post/Christmas_Tree/2018-12-17-plotting-christmas-tree_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<pre class="r"><code>
+#rename the tree tip labels
+query[[2]][16] &lt;-  &quot;Picea pungens&quot; #remove one extra space
+query[[2]] &lt;- gsub(pattern=&quot;\\s&quot;, &quot;_&quot;, query[[2]])
+
+new_label &lt;- paste0(tree$tip.label,&quot;(&quot;, query[[1]][match(tree$tip.label, query[[2]])], &quot;)&quot;)
+
+new_tree &lt;- tree
+new_tree$tip.label &lt;- new_label
+
+#png(&quot;The Tree of Christams Tree.png&quot;)
+plot(new_tree, cex=0.7)</code></pre>
+<p><img src="/post/Christmas_Tree/2018-12-17-plotting-christmas-tree_files/figure-html/unnamed-chunk-1-2.png" width="672" /></p>
+<pre class="r"><code>#dev.off()
+
+#write.tree(tree, &quot;renamed_tree.tre&quot;)</code></pre>
