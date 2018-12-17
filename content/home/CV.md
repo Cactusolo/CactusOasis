@@ -16,8 +16,12 @@ Dickinson Hall, 1659 Museum Rd, PO. Box 117800
 Gainesville, FL 32611-7800, USA
 
 
-**Email:** cactusresponsible@gmail.com; cactus@ufl.edu;  
-**Homepage:** <https://miaosun.netlify.com/>; 
+**Email:** cactusresponsible@gmail.com; cactus@ufl.edu
+
+
+**Homepage:** <https://miaosun.netlify.com>
+
+
 **Twitter:** [@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
 
 ### Positions
