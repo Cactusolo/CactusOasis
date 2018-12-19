@@ -12,10 +12,14 @@ tags:
 image:
   caption: ''
   focal_point: ''
+
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
+![florida](/post/2018-12-14-ploting-florida_files/florida.png)
+  
+
 
 # Ploting Florida
 

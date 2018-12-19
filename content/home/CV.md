@@ -11,16 +11,14 @@ disable_comments: yes
 
 ### Contact Information
 
-Florida Museum of Natural History, University of Florida  
-Dickinson Hall, 1659 Museum Rd, PO. Box 117800  
-Gainesville, FL 32611-7800, USA
+_Florida Museum of Natural History, University of Florida_  
+_Dickinson Hall, 1659 Museum Rd, PO. Box 117800_  
+_Gainesville, FL 32611-7800, USA_
 
 
 **Email:** cactusresponsible@gmail.com; cactus@ufl.edu
 
-
 **Homepage:** <https://miaosun.netlify.com>
-
 
 **Twitter:** [@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
 
@@ -79,7 +77,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-_**\*** equally contributing author; 21 publications, h-index 8, 207 total citations according to Google Scholar_
+_**\*** equally contributing author; 21 publications, h-index 8, **_209_** total citations according to Google Scholar_
 
 #### Papers:
 
