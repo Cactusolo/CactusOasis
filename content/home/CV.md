@@ -78,7 +78,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-_ **\*** equally contributing author; 21 publications, h-index 8, **_209_** total citations according to Google Scholar_
+_ \*equally contributing author; 21 publications, h-index 8, **_209_** total citations according to Google Scholar_
 
 #### Papers:
 
