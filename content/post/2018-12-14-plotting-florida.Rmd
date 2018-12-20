@@ -1,5 +1,5 @@
 ---
-title: Ploting Florida
+title: Plotting Florida
 author: Miao Sun
 date: '2018-12-14'
 slug: ploting-florida

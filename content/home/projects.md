@@ -41,7 +41,7 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Dimension"
+  name = "Dimensions"
   tag = "Biodiversity"
 
 # [[filter]]

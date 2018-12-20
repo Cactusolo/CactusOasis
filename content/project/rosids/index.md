@@ -6,7 +6,7 @@ title = "Rosid Phylogeny and Diversification"
 date = 2018-12-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Rosids, among the largest clades of angiosperms (90,000–120,000 species, ca. 25% of all angiosperms), exhibit tremendous overall diversity in morphology, chemistry, habit, reproductive strategy, and life history. However, our knowledge of this clade is remarkably limited along any sampling metric, hampering efforts to better understand its incredible species diversity."
+summary = " **Rosids**, among the largest clades of angiosperms (90,000–120,000 species, ca. 25% of all angiosperms), exhibit tremendous overall diversity in morphology, chemistry, habit, reproductive strategy, and life history. However, our knowledge of this clade is remarkably limited along any sampling metric, hampering efforts to better understand its incredible species diversity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["rosids", "diversitification"]`

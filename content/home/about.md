@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Evolution",
-    "phylogeny",
+    "Phylogeny",
     "Diversification",
     "Taxonomy",
     "Bioinformatics"
@@ -35,15 +35,14 @@ weight = 5
  
 +++
 
-Miao Sun is a postdoctoral fellow at the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu), with [Drs. Douglas and Pamela Soltis](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab).  
-Miao has a passionate interest in applying phylogenetic tree as a pivotal framework for solving fundamental issues in biology.
+I'm a postdoctoral fellow at the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu), with [Drs. Douglas and Pamela Soltis](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab). I have a passion for applying phylogenetic tree as a pivotal framework attempting to solve fundamental issues in biology.
 
-To date, His research has involved following areas:
+To date, my research has involved following areas:
 
-  * How historical constraints, local adaptation, and species interactions shape biodiversity across an ancient floristic disjunction, i.e, eastern
+  * How historical constraints, local adaptation, and species interactions shape biodiversity across an ancient floristic disjunction between eastern
 Asia (EA) and eastern North America (ENA)
-  * Use large-scale phylogeny to explore the diversification patterns of rosids, and how it corresponding to climate change.
-  * Explore the phylogenetic incongruence among different genomic data resource, and decipher its potential evolutionary cause.
-  * Study phylogeny, biogeography, and origin and dispersal for specific group/clade (e.g. *Eleaegnus*).
+  * Using large-scale phylogeny to explore the diversification patterns of rosids (_a large angiosperm clade, 9,000-12,000 species, with tremendous overall diversity and economic significance_), and how it corresponds to climate change.
+  * Exploring the phylogenetic incongruence among data patitions, and deciphering its potential evolutionary cause
+  * Studying phylogeny, biogeography, origin and dispersal for the diverse focal clades (e.g., *Elaeagnus*)
 
-__Most of the time he is struggling for existence, occasionally he does some coding!__ 
+__When NOT struggling for existence, I occasionally do some coding!!__ 

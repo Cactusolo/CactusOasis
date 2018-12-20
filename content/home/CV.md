@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 slug: en/vitae
@@ -188,17 +189,24 @@ Department of Biology
 University of Florida  
 Gainesville, FL 32611, USA  
 Email: dsoltis@ufl.edu  
+Phone:  +1 (352) 273-1963  
 
 **Pamela S. Soltis** (Postdoc advisor)  
 Florida Museum of Natural History  
 University of Florida  
 Gainesville, FL 32611, USA  
 Email: psoltis@flmnh.ufl.edu    
+Phone:  +1 (352) 273-1964  
 
 **Zhiduan Chen** (Ph.D. Supervisor)  
 State Key Laboratory of Systematic and Evolutionary Botany,  
 Institute of Botany, Chinese Academy of Sciences  
 20 Nanxincun, Xiangshan, Beijing 100093, P. R. CHINA  
 Email: zhiduan@ibcas.ac.cn  
-Tel.: 8610-62836090
-FAX: 8610-62590843
+Tel.: +86 10-62836090  
+FAX: +86 10-62590843
+
+
+
+_Last modification: 2018-12-19_  
+{{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}

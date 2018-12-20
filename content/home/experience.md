@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoc currently on [Dimension Project](https://www.usa-china-biodiversity.org/)"
+  title = "Postdoc currently on [Dimensions Project](https://www.usa-china-biodiversity.org/)"
   company = "Florida Museum of Nature History"
   company_url = "https://www.floridamuseum.ufl.edu/"
   location = "Gainesville, FL, USA"
@@ -30,7 +30,7 @@ date_format = "January 2006"
   
   * Data collecting
   * Analysing
-  * publishing results
+  * Publishing results
   """
 
 [[experience]]
@@ -40,6 +40,6 @@ date_format = "January 2006"
   location = "Beijing, China"
   date_start = "2014-09-01"
   date_end = "2015-01-01"
-  description = """Plant phylogeny reconstruction"""
+  description = """Chinese vasular plant phylogeny reconstruction"""
 
 +++

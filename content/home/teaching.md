@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) and ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerized the numbers of workshops we orgnaized and the numbers of people that we trained.
+I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (a non-profit organization, aiming to teach foundational coding and data science skills to researchers worldwide). I'm aslo an ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerize the numbers of workshops we organized and the numbers of people that we trained.
 
 # 2018
 - Oct 4 - Oct 4: [One Day R Workshop](https://uf-carpentry.github.io/2018-10-04-ufii-one-day/)
@@ -24,7 +24,7 @@ I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) and
 - Aug 15 - Aug 16: [Software Carpentry (Python)](https://punama.github.io/2018-08-15-SWC/)
 - Jan 22 - Jan 23: [Software Carpentry](https://uf-carpentry.github.io/2018-01-22-UFII/)
 - Jan 18 - Mar 1: [Multi-Week Data Carpentry](https://ufrmeetup.github.io/2018-01-18-UF-R/)
-{{< figure library="1" src="teaching.jpg" title="[Instructor]( https://twitter.com/UFCPET/status/1019341808688664576) for Precollegiate Education and Training on July 16 2018" >}}
+{{< figure library="1" src="teaching.jpg" title="[Instructor]( https://twitter.com/UFCPET/status/1019341808688664576) for Precollegiate Education and Training (high-school teachers) on July 16 2018" >}}
 
 # 2017
 - Aug 18 - Aug 18: [Day of R](https://uf-carpentry.github.io/2017-08-18-Marston-RDay/)
