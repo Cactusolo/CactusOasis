@@ -1,5 +1,5 @@
 +++
-title = "A revision of Elaeagnus L. (Elaeagnaceae) in mainland China"
+title = "JSE: A revision of Elaeagnus L. (Elaeagnaceae) in mainland China"
 date = 2010-05-01T00:00:00
 draft = false
 

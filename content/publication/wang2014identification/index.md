@@ -1,5 +1,5 @@
 +++
-title = "Identification of nuclear low-copy genes and their phylogenetic utility in rosids"
+title = "Genome: Identification of nuclear low-copy genes and their phylogenetic utility in rosids"
 date = 2014-01-01T00:00:00
 draft = false
 

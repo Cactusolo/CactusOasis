@@ -1,5 +1,5 @@
 +++
-title = "Global versus Chinese perspectives on the phylogeny of the N-fixing clade"
+title = "JSE: Global versus Chinese perspectives on the phylogeny of the N-fixing clade"
 date = 2016-07-01T00:00:00
 draft = false
 

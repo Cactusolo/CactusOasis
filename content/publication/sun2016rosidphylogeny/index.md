@@ -1,5 +1,5 @@
 +++
-title = "Phylogeny of the Rosidae: A dense taxon sampling analysis"
+title = "JSE: Phylogeny of the Rosidae: A dense taxon sampling analysis"
 date = 2016-01-01T00:00:00
 draft = false
 

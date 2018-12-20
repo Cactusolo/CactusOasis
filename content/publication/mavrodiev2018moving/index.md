@@ -1,5 +1,5 @@
 +++
-title = "Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas”"
+title = "Phytotaxa: Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas”"
 date = 2018-01-01T00:00:00
 draft = false
 

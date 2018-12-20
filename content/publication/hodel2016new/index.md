@@ -1,5 +1,5 @@
 +++
-title = "A new resource for the development of SSR markers: Millions of loci from a thousand plant transcriptomes"
+title = "APPS: A new resource for the development of SSR markers: Millions of loci from a thousand plant transcriptomes"
 date = 2016-01-01T00:00:00
 draft = false
 

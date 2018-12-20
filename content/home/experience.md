@@ -30,8 +30,8 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Data assemblage (_field work and sampling, molecuar marker design, and molecular data generation_)
-  * Analyses (phylogeny)
-  * Publication (paper, and posters)
+  * Analyses (_phylogeny_)
+  * Publication (_paper, and posters_)
   """
   
 [[experience]]
@@ -54,6 +54,8 @@ date_format = "January 2006"
   location = "Beijing, China"
   date_start = "2014-09-01"
   date_end = "2015-01-01"
-  description = """Chinese vasular plant phylogeny reconstruction"""
+  description = """
+  * Chinese vasular plant phylogeny reconstruction
+  """
 
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Challenges of comprehensive taxon sampling in comparative biology: Wrestling with rosids"
+title = "AJB: Challenges of comprehensive taxon sampling in comparative biology: Wrestling with rosids"
 date = 2018-01-01T00:00:00
 draft = false
 

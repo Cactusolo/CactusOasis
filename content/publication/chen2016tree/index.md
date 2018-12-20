@@ -1,5 +1,5 @@
 +++
-title = "Tree of life for the genera of Chinese vascular plants"
+title = "JSE: Tree of life for the genera of Chinese vascular plants"
 date = 2016-01-01T00:00:00
 draft = false
 
