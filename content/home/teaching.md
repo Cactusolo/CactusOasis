@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (a non-profit organization, aiming to teach foundational coding and data science skills to researchers worldwide). I'm aslo an ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerize the numbers of workshops we organized and the numbers of people that we trained.
+I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a non-profit organization, aiming to teach foundational coding and data science skills to researchers worldwide_). I'm aslo an ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerize the numbers of workshops we organized and the numbers of people that we trained.
 
 # 2018
 - Oct 4 - Oct 4: [One Day R Workshop](https://uf-carpentry.github.io/2018-10-04-ufii-one-day/)

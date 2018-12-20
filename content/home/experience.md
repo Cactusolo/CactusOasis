@@ -18,18 +18,32 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Postdoc currently on [Dimensions Project](https://www.usa-china-biodiversity.org/)"
+  title = "Postdoc on [Dimensions Project](https://www.usa-china-biodiversity.org/)"
   company = "Florida Museum of Nature History"
   company_url = "https://www.floridamuseum.ufl.edu/"
   location = "Gainesville, FL, USA"
-  date_start = "2015-01-14"
+  date_start = "2016-01-02"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Data collecting
-  * Analysing
+  * Data assemblage (_field work and sampling, molecuar marker design, and molecular data generation_)
+  * Analyses (phylogeny)
+  * Publication (paper, and posters)
+  """
+  
+[[experience]]
+  title = "Postdoc on Tree of Life Project"
+  company = "Department of Biology, University of Florida"
+  company_url = "https://biology.ufl.edu/"
+  location = "Gainesville, FL, USA"
+  date_start = "2015-01-14"
+  date_end = "2016-01-01"
+  description = """
+  * Assembling data
+  * Building the China Tree of Plant Life (_rosids_)
   * Publishing results
   """
 

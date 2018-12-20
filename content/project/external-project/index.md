@@ -6,7 +6,7 @@ title = "Dimensions"
 date = 2018-12-10T00:00:00
 
 # Project summary to display on homepage.
-summary = " **Biodiversity** is multidimensional, composed of genetic, phenotypic, ecological, and geographic variation within and among species. The forests of eastern Asia and eastern North America were anciently connected, offering an excellent opportunity to study the drivers of its biodiversity. This is US-China collaboration between US project. More details, see [Project Homepage](https://www.usa-china-biodiversity.org/)"
+summary = " **Biodiversity** is multidimensional, composed of genetic, phenotypic, ecological, and geographic variation within and among species. The forests of eastern Asia and eastern North America were anciently connected, offering an excellent opportunity to study the drivers of its biodiversity. This is a US-China collaboration project. See [Project Homepage](https://www.usa-china-biodiversity.org/)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Dimensions", "Biodiversity"]`
