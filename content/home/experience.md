@@ -28,8 +28,8 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Data assemblage (_field work and sampling, molecuar marker design, and molecular data generation_)
+  * Continuously served as the main communicating point between US research groups and China research groups
+  * Data assemblage (_field work and sampling, DNA extraction, evaluation, and sample preparation, molecuar marker design, and molecular data generation_)
   * Analyses (_phylogeny_)
   * Publication (_paper, and posters_)
   """
@@ -42,6 +42,7 @@ date_format = "January 2006"
   date_start = "2015-01-14"
   date_end = "2016-01-01"
   description = """
+  * Bridging US and China research teams
   * Assembling data
   * Building the China Tree of Plant Life (_rosids_)
   * Publishing results
