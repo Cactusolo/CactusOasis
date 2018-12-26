@@ -78,7 +78,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 21 publications, h-index 8, **_211_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 21 publications, h-index 8,  **_211_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -208,5 +208,5 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2018-12-19_  
+_Last modification: 2018-12-25_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
