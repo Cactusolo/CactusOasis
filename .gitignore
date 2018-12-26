@@ -1,4 +1,6 @@
+content/post/Annual_report/
 *.Rproj
 public/
 .Rproj.user/
 .Rproj.user
+.Rhistory
