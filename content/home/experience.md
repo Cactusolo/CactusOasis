@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_start = "2016-01-02"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities include:  
   * Continuously served as the main communicating point between US research groups and China research groups
   * Data assemblage (_field work and sampling, DNA extraction, evaluation, and sample preparation, molecuar marker design, and molecular data generation_)
   * Analyses (_phylogeny_)
