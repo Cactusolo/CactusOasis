@@ -1,6 +1,6 @@
 +++
-title = "Gator Good --- Biodiversity and the Earth"
-subtitle = ""
+title = "Biodiversity and the Earth"
+subtitle = "We all need to work together"
 
 date = 2018-12-26T00:00:00
 draft = false
@@ -9,7 +9,7 @@ draft = false
 authors = ["Uiversity of Florida"]
 
 tags = ["Dimensions", "Tree of Life", "Conservation", "Biodiversity", "Outreach", "Education"]
-summary = "Our world’s heartbeat is its biodiversity. That complex web of life is responsible for the food we eat, the water we drink and the air we breathe. But we often don’t realize how much our actions can contribute to the earth’s cultivation or damage. That’s why UF is bringing researchers together from across the country to digitize and map our biodiversity, building a robust catalog of wildlife as the foundation for its preservation. see [Univeristy of Florida on YouTube](https://www.youtube.com/watch?v=z_FI56liDd4)"
+summary = "Our world’s heartbeat is its biodiversity. This complex network of all life is responsible for the food we eat, the water we drink ..."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -35,8 +35,9 @@ summary = "Our world’s heartbeat is its biodiversity. That complex web of life
 +++
 
 ## Saving the Biodiversity on the Earth = Saving Ourselves
-#### It's never too big to do something about it
+#### It's never too big to do something about it!  [We all play a part for the greater good](https://www.youtube.com/watch?v=XvPDptR2GkM&index=16&t=0s&list=LLcUzUXTh2qnFN92T4ZqLesg)!
+Our world’s heartbeat is its biodiversity! This complex network of all life is responsible for the food we eat, the water we drink and the air we breathe. But we often don’t realize how much even our subtile actions may have huge consequences to the earth’s cultivation or damage. That’s why researchers come together from all over the world to map our biodiversity and call for conservation. We are building a robust **_family tree_** for all life on earth as the foundation for its preservation and for the greater good of our own species.  
+Evolutionary relationship matters! Tree of Life (_phylogeny_) is able to help us with the discovery of medicines, curing diseases, improving crops, identifying conservation priorities, and even predicting the global response of species to a rapidly changing climate. Our knowledge of phylogeny also can help to increase public understanding of conservation, biodiversity, emphasizing the importance and connectivity of all life. Scientists and the publics, and policy makers need to be partnership togther contributing this great course! See [Soltis and Soltis (2019)](https://www.elsevier.com/books/the-great-tree-of-life/soltis/978-0-12-812553-3).
 
-Evolutionary relationship matters! Tree of Life (_phylogeny_) is able to help people with the discovery of medicines, curing diseases, improving crops, identifying conservation priorities, and even predicting the global response of species to a rapidly changing climate. Our knowledge of phylogeny also can help to increase public understanding of conservation, biodiversity, emphasizing the importance and connectivity of all life. See [Soltis and Soltis (2019)](https://www.elsevier.com/books/the-great-tree-of-life/soltis/978-0-12-812553-3).
+{{< youtube z_FI56liDd4 >}}  
 
-{{< youtube z_FI56liDd4 >}}

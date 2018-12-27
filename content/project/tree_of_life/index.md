@@ -6,7 +6,7 @@ title = "Tree of Life"
 date = 2018-12-10T00:00:00
 
 # Project summary to display on homepage.
-summary = " [Tree of Life](https://blog.opentreeoflife.org/what-is-the-tree-of-life/) --- A map of the evolutionary relationships between all life on the planet --- A metaphor for the importance and connectivity of all species ---Relastionship matters --- Aim to help increase public understanding of conservation and biodiversity. The knowledge of Tree of Life has a lot practical applications which will benifit humans ourselves. See [TreeTender](https://www.treetender.org/) and [The Great Tree of Life by Soltis and Soltis (2019)](https://www.elsevier.com/books/the-great-tree-of-life/soltis/978-0-12-812553-3). "
+summary = " [Tree of Life](https://blog.opentreeoflife.org/what-is-the-tree-of-life/) --- A map of the relationships between all life on earth --- A metaphor for the importance and connectivity of all species ---Relastionship matters --- Aiming to increase public understanding of conservation and biodiversity. The knowledge of Tree of Life has many practical applications which will benifit ourselves. See [TreeTender](https://www.treetender.org/), [Doug Slotis @TedxUF talk](https://www.youtube.com/watch?v=5qXz9X-rltE&index=18&list=LLcUzUXTh2qnFN92T4ZqLesg&t=0s), and [The Great Tree of Life by Solti (2019)](https://www.elsevier.com/books/the-great-tree-of-life/soltis/978-0-12-812553-3). "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["rosids", "diversitification"]`
@@ -28,7 +28,7 @@ external_link = ""
 url_pdf = ""
 url_slides = "CGM_Talk-compressed.pdf"
 url_video = "https://www.treetender.org/"
-url_code = ""
+url_source = "https://www.youtube.com/watch?v=Z8z6HJcVdIY"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
