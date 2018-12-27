@@ -43,13 +43,13 @@ filter_default = 0
 [[filter]]
   name = "Dimensions"
   tag = "Biodiversity"
-
-# [[filter]]
-#   name = "Open Tree of Life"
-#   tag = "Tree of Life"
-#   
+  
 [[filter]]
   name = "rosids"
   tag = "rosids"
+
+ [[filter]]
+   name = "Tree of Life"
+   tag = "Tree of Life"
 +++
 
