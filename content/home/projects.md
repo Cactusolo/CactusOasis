@@ -42,7 +42,7 @@ filter_default = 0
 
 [[filter]]
   name = "Dimensions"
-  tag = "Biodiversity"
+  tag = "Dimensions"
   
 [[filter]]
   name = "rosids"
@@ -51,5 +51,9 @@ filter_default = 0
  [[filter]]
    name = "Tree of Life"
    tag = "Tree of Life"
+ 
+ [[filter]]
+   name = "Other"
+   tag = "Taxonomy"
 +++
 

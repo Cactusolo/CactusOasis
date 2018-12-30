@@ -3,7 +3,7 @@
 title = "Dimensions"
 
 # Date this page was created.
-date = 2018-12-10T00:00:00
+date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
 summary = " **Biodiversity** is multidimensional, composed of genetic, phenotypic, ecological, and geographic variation within and among species. The forests of eastern Asia and eastern North America were anciently connected, offering an excellent opportunity to study the drivers of its biodiversity. This is a US-China collaboration project. See [Project Homepage](https://www.usa-china-biodiversity.org/)"

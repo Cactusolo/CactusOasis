@@ -1,5 +1,5 @@
 +++
-title = "Naure---ISME: Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China"
+title = "Nature---ISME: Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China"
 date = 2018-01-01T00:00:00
 draft = false
 
