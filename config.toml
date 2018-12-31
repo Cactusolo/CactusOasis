@@ -59,8 +59,8 @@ enableGitInfo = false
   organizations = [ { name = "University of Florida", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-
+# avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait2.png" 
   # Details for the Contact Widget
   email = "cactusATufl.edu"
   address = "Room 301B, Florida Museum of Natural History, Gainesville, Florida, 32611, USA"
