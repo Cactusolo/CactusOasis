@@ -157,7 +157,7 @@ diversification using the tools of comparative biology.
 
 - **2017**
     
-    + Board member of UF Carpentries Club (https://github.com/UF-Carpentry)
+    + [Board member of UF Carpentries Club](https://github.com/UF-Carpentry)
     + Organizer of several Tree of Life pop-up tent events (UF campus, FLMNH public museum, local brew-pub)
     + Helper of Research Computing Training at UF Information Technology, Research Computing (University of Florida)
     + Coordinated with the 100-year anniversary exhibit celebration of FLMNH
@@ -179,7 +179,7 @@ diversification using the tools of comparative biology.
     + Training college students for taxonomic skills
     + Speaker of the conference about dioecious plants in Angiosperm in Peking University
     + Participate in the evaluation of “Red List of China Higher Plants” as a taxonomy expert
-    + Contributed to develop a “Molecular Data and Application Environment” website as a winner of best of website name and real name, “Darwin Tree” and “http://www.darwintree.cn/”, respectively
+    + Contributed to develop a “Molecular Data and Application Environment” website and a winner for the best of website name and domain name, “Darwin Tree” and “http://www.darwintree.cn/”, respectively
 
 ### Service
 
