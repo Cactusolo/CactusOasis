@@ -46,7 +46,7 @@ projects = ["dimensions"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Soil Mycobiome", "Biodiversity", "Plnats Phylogeny", "China"]
+tags = ["Soil Mycobiome", "Biodiversity", "Phylogeny", "China"]
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/publication/328461286_Phylogenetic_imprint_of_woody_plants_on_the_soil_mycobiome_in_natural_mountain_forests_of_eastern_China"

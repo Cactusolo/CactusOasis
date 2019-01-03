@@ -20,24 +20,24 @@ _Gainesville, FL 32611-7800, USA_
 **Email:** cactusresponsible@gmail.com;  
            cactus@ufl.edu
 
-**Homepage:** <https://miaosun.netlify.com>
+**Homepage:** <https://www.sunmiao.name>
 
-**Twitter:** [@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
+**Twitter:** [\@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
 
 ### Positions
 
 - **Postdoctoral Research Fellow  (2016 ~ present)**  
-    Florida Museum of Natural History, University of Florida  
-    Advisor: Dr. Pamela S. Soltis
+    [Florida Museum of Natural History, University of Florida](https://www.floridamuseum.ufl.edu/)  
+    Advisor: Dr. [Pamela S. Soltis](https://biodiversity.institute.ufl.edu/about/dr-pamela-s-soltis-director-of-biodiversity-institute/)
     
 - **Postdoctoral Research Fellow  (2015 ~ 2016)**  
-    Department of Biology, University of Florida  
-    Advisor: Dr. Douglas E. Soltis
+    [Department of Biology, University of Florida](https://biology.ufl.edu/)  
+    Advisor: Dr. [Douglas E. Soltis](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab/doug-soltis/)
   
 - **Research Assistant  (2014.07 ~ 2015.01)**  
-    State Key Laboratory of Systematic and Evolutionary Botany  
-    Institute of Botany, Chinese Academy of Sciences  
-    Advisor: Dr. Zhiduan Chen
+    [State Key Laboratory of Systematic and Evolutionary Botany](http://www.lseb.cn/)  
+    [Institute of Botany, Chinese Academy of Sciences  ](http://www.ibcas.ac.cn/)  
+    Advisor: Dr. [Zhiduan Chen](http://sourcedb.ib.cas.cn/cn/expert/200904/t20090403_45016.html)
   
 ### Research Interests
 
@@ -83,7 +83,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 21 publications, h-index 8;  **_211_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_213_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -96,8 +96,8 @@ diversification using the tools of comparative biology.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Robert P. Guralnick. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
 1. Lu LM, Mao L, Yang T, Ye JF, Liu B, Li HL, **_Sun M\*_**, Miller JT, Mathews S, Hu HH, Niu YT, Peng DX, Chen YH, Smith SA, Chen M, Xiang KL, Le CT, Dang VC, Lu AM, Soltis PS, Soltis DE, Li JH, Chen ZD. (2018). Evolutionary history of the angiosperm flora of China. _Nature_ 554: 234–238. doi: 10.1038/nature25485.
 1. Mu XY, **_Sun M_**, Yang PF, Lin QW. (2017). Unveiling the identity of Wenwan walnuts and phylogenetic relationships of Asian Juglans species using restriction site-associated DNA-sequencing. _Frontiers in Plant Science_ (8): 1708. doi: 10.3389/fpls.2017.01708
-1. Hodel RG, Gitzendanner MA, Germain-Aubrey CC, Liu X, Crowl AA, Sun M, Landis JB, Segovia-Salcedo MC, Douglas NA, Chen SC, Soltis DE, Soltis PS. (2016). A new resource for the development of SSR markers: Millions of loci from a thousand plant transcriptomes. _Applications in Plant Sciences_ 4(6): 1600024.
-1. Hodel RG, Segovia-Salcedo MC, Landis JB, Crowl AA, Sun M, Liu XX, Gitzendanner MA, Douglas NA, Germain-Aubrey CC, Chen SC, Soltis DE, Soltis PS. (2016). The report of my death was an exaggeration: A review for researchers using microsatellites in the 21st century. _Applications in Plant Sciences_ 4(6): 1600025.
+1. Hodel RG, Gitzendanner MA, Germain-Aubrey CC, Liu X, Crowl AA, **_Sun M_**, Landis JB, Segovia-Salcedo MC, Douglas NA, Chen SC, Soltis DE, Soltis PS. (2016). A new resource for the development of SSR markers: Millions of loci from a thousand plant transcriptomes. _Applications in Plant Sciences_ 4(6): 1600024.
+1. Hodel RG, Segovia-Salcedo MC, Landis JB, Crowl AA, **_Sun M_**, Liu XX, Gitzendanner MA, Douglas NA, Germain-Aubrey CC, Chen SC, Soltis DE, Soltis PS. (2016). The report of my death was an exaggeration: A review for researchers using microsatellites in the 21st century. _Applications in Plant Sciences_ 4(6): 1600025.
 1. Chen ZD, Yang T, Li Lin, Lu LM, Li HL, **_Sun M_**, Liu B, Chen M, Niu YT, Ye JF, Cao ZY, Liu HM, Wang XM, Wang W, Zhang JB, Meng Z, Cao W, Li JH, Wu SD, Zhao HL, Liu ZJ, Du ZY, Wang QF, Guo J, Tan XX, Su JX, Zhang LJ, Yang LL, Liao YY, Li MH, Zhang GQ, Chung SW, Zhang J, Xiang KL, Li RQ, Soltis DE, Soltis PS, Zhou SL, Ran JH, Wang XQ, Jin XH, Chen YS, Gao TG, Li JH, Zhang SZ, Lu AM. (2016). Tree of life for the genera of Chinese vascular plants. _Journal of Systematics and Evolution_ 54(4): 227-306.
 1. Li HL, Wang W, Li RQ, Zhang JB, **_Sun M_**, Naeem R, Su JX, Xiang XG, Mortimer PE, Li DZ, Hyde KD, Xu JC, Soltis DE, Soltis PS, Li JH, Zhang SZ, Wu H, Chen ZD, Lu AM. (2016). Global versus Chinese perspectives on the phylogeny of the N-fixing clade. _Journal of Systematics and Evolution_ 54(4): 392-399.
 1. **Sun M**, Naeem R, Su JX, Burleigh GJ, Solits DE, Soltis PS, Chen ZD. (2016). Phylogeny of the _Rosidae_: A dense taxon sampling analysis. _Journal of Systematics and Evolution_ 54(4): 363-391.
@@ -148,6 +148,7 @@ diversification using the tools of comparative biology.
 
 - **2018**
 
+    + Co-organizer and co-translator of [The Great Tree of Life](https://www.elsevier.com/books/the-great-tree-of-life/soltis/978-0-12-812553-3)
     + Co-organizer of Research Bazaar event
     + Instructor and Helper of a serial of "Software and Data Carpentry Workshops” events
     + Instructor for Precollegiate Education and Training event  
@@ -159,7 +160,7 @@ diversification using the tools of comparative biology.
     + Board member of UF Carpentries Club (https://github.com/UF-Carpentry)
     + Organizer of several Tree of Life pop-up tent events (UF campus, FLMNH public museum, local brew-pub)
     + Helper of Research Computing Training at UF Information Technology, Research Computing (University of Florida)
-    + coordinated with the 100-year anniversary exhibit celebration of FLMNH
+    + Coordinated with the 100-year anniversary exhibit celebration of FLMNH
     + Organizer of One Tree one Planet Encore
     + Judge for Graduate Student Research Day
     + Instructor and Helper in several “Software Carpentry Workshop” events
@@ -182,11 +183,11 @@ diversification using the tools of comparative biology.
 
 ### Service
 
-- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, and _Phytotaxa_
-- Certified Instructor of Software Carpentry (The Carpentries; taught classes of >100 students)
+- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, and _Phytotaxa_
+- Certified Instructor of Software Carpentry (The Carpentries; taught classes of >400 students)
 - Board member of UF Carpentries Club (a workshop series to teach informatics skills)
 - Judge for Graduate Student Research Day at University of Florida
-- Judge for American Society of Plant Taxonomists
+- Judge Graduate Student Research Grant proposals for American Society of Plant Taxonomists
 - Educator Summer Science Institute Tree of Life for high school teacher
 - Volunteer Tree of Life Pop-Up Science
 - Member of Botanical Society of America
@@ -219,5 +220,5 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2018-12-30_  
+_Last modification: 2019-1-3_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
