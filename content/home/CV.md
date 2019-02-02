@@ -146,6 +146,10 @@ diversification using the tools of comparative biology.
 
 ### Academic Activities
 
+- **2019**
+
+    + Research Lightning Talks at [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/nhdept/event/postdoctoral-researchers-lightning-talks/)
+
 - **2018**
 
     + Co-organizer and co-translator of [The Great Tree of Life](https://www.elsevier.com/books/the-great-tree-of-life/soltis/978-0-12-812553-3)
