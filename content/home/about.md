@@ -35,7 +35,7 @@ weight = 5
  
 +++
 
-I'm a postdoctoral fellow at the Florida Museum of Natural History, with [Drs. Douglas and Pamela Soltis](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab/people/principal-investigators/). I have a keen passion for applying phylogenetic tree as a pivotal framework attempting to solve fundamental issues in biology.
+I'm a postdoctoral fellow at the Florida Museum of Natural History, with [Drs. Douglas and Pamela Soltis](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab/people/principal-investigators/). I have a keen passion for applying phylogenetic tree as a pivotal framework attempting to solve fundamental issues in biology. In my understanding that phylogeny serves as a beautiful platform linking all the biological data together with an evolutionary background.
 
 To date, my research has involved following areas:
 
