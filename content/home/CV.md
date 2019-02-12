@@ -83,7 +83,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_218_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_220_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -187,7 +187,7 @@ diversification using the tools of comparative biology.
 
 ### Service
 
-- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, and _Phytotaxa_.
+- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, _Scientific Reports_, and _Phytotaxa_.
 - Certified Instructor of Software Carpentry (The Carpentries; taught classes of >400 students)
 - Board member of UF Carpentries Club (a workshop series to teach informatics skills)
 - Judge for Graduate Student Research Day at University of Florida
@@ -224,5 +224,5 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2019-02-08_  
+_Last modification: 2019-02-12_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
