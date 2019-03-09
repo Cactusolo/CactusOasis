@@ -83,7 +83,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_227_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_235_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -132,6 +132,27 @@ diversification using the tools of comparative biology.
 1. Lichstein J, Zhang T, **_Sun M_**, Mack M, Graves S, Whitten M, Jantzen J, Park J, Bohlman S, Gitzendanner M, Soltis D, Soltis P. (2017). Ecological traits and recent populationdynamics of eastern Asian-eastern North American disjunct tree species in North America. _The XIX International Botanical Congress 2017 (Shenzhen, China)_, Abstract ID: T2-12-05. (Presentation)
 1. **Sun M**, Germain-Aubrey CC, Gitzendanner MA, Smith SA, Soltis PS, Chen ZD, Soltis DE. (2016). Wrestling with the Rosids I: progress and challenges for phylogenetics of a large, hyper-diverse angiosperm clade. _Botany Conference 2016 (Savannah, Georgia)_, Abstract ID: 404. (Presentation)
 
+### Classes Audited  
+
+- **2018**
+    + RSSIG - R Social Sciences Interest Group
+    + Phylogenetics Systematics ( _BOT6935/ZOO6927_ )
+    + Computational Tools for Research ( _ZOO6927/ZOO4926_ )
+    + the Origin of Species Reading Group ( _BOT6935/ZOO6927_ )
+
+- **2017**
+    + Grant Writing Seminar ( _ZOO6927/BOT6935_ )
+    + Principles of Systematic Biology ( _BOT6726/ZOO6927_ )
+    + Niche Modelling ( _ZOO6927_ )
+- **2016**
+    + Data & Analysis in Natural Sciences ( _ZOO6927/ZOO4926||GLY6932/GLY4930_ )
+    + Phylogenomics ( _BOT6935/ZOO6927_ )
+    + Practical Computational Biology ( _ZOO4926/ZOO6927_ )
+
+- **2015**
+    + Taxonomy of Vascular Plants ( _BOT5725C_ )
+    + Principles of Systematic Biology ( _BOT6726/ZOO6927_ )
+    
 ### Fieldwork Experience
 
 - **2015**
@@ -148,6 +169,8 @@ diversification using the tools of comparative biology.
 
 - **2019**
 
+    + Participated in Writing Workshop at UF Biodiversity Institute  
+Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy/), Associate Professor _Michigan State University_
     + Research Lightning Talks at [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/nhdept/event/postdoctoral-researchers-lightning-talks/)
 
 - **2018**
@@ -224,5 +247,5 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2019-02-19_  
+_Last modification: 2019-03-08_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
