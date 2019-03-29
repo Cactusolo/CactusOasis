@@ -22,7 +22,7 @@ _Gainesville, FL 32611-7800, USA_
 
 **Homepage:** <https://www.sunmiao.name>
 
-**Twitter:** [\@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
+**Twitter:** [ \@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
 
 ### Positions
 
@@ -83,14 +83,14 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_235_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_242_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. (Submitted) Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. 
 1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (In review) For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_.
 1. Sui XH, **_Sun M_**, Liu Y. (In prep.) Eco-evolutionary pathways of Extinction Risk among Chinese angiosperm genera.
-1. Shimai H, Whitten M, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
+1. Shimai H, Whitten M, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_. doi: 10.1038/s41396-018-0303-x
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Robert P. Guralnick. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
@@ -104,7 +104,7 @@ diversification using the tools of comparative biology.
 1. **Sun M**, Solits DE, Soltis PS, Zhu XY, Burleigh GJ, Chen ZD. (2015). Deep phylogenetic incongruence in the angiosperm clade _Rosidae_. _Molecular Phylogenetics and Evolution_ 83: 156-166.
 1. Wang B, Zhang Y, Wei P, **_Sun M_**, Ma X, Zhu X. (2015). Identification of nuclear low-copy genes and their phylogenetic utility in rosids. Genome 57(10): 150203143525007.
 1. Lu LM, **_Sun M_**, Zhang JB, Li HL, Lin L, Yang T, Chen M, Chen ZD. (2014). Tree of life and its applications. _Biodiversity Science_ 22: 3-20.
-1. **_Sun M_**, Lin Q. (2010). A revision of _Elaeagnus_ L. (Elaeagnaceae) in mainland China. _Journal of Systematics and Evolution_ 48(5): 356-390.
+1. **Sun M**, Lin Q. (2010). A revision of _Elaeagnus_ L. (Elaeagnaceae) in mainland China. _Journal of Systematics and Evolution_ 48(5): 356-390.
 1. **Sun M**, Lin Q, Sun Q, Bei SQ, Li HL, Yang ZR. (2008). Validation of eight names of Chinese taxa in Ranunculaceae, Rosaceae and Scrophulariaceae. _Kew Bulletin_ 64: 573-575.
 1. **Sun M**, Lin Q. (2008). Lectotypification of five scientific names in Rosaceae. _Guihaia_ 28: 295-297. (In Chinese)
 1. Lin Q, Bei SQ, Li HL, Cao ZY, Sun Q, **_Sun M_**, Yang ZR. (2008). Lectotypification of twenty names of Chinese taxa in Angiospermae. _Bulletin of Botanical Research_ 5: 534-539.
@@ -124,7 +124,8 @@ diversification using the tools of comparative biology.
 
 #### Conference Presentations/Posters:
 
-1. **Sun M**. (2018). Building, Using, and Tending the Tree of Life. Chinese Genomics Meet-up. (Presentation)
+1. **Sun M**. (2018). Building, Using, and Tending the Tree of Life. _Chinese Genomics Meet-up_. (Presentation)
+1. **Sun M**, Germain-Aubrey CC, Smith SA, Soltis PS, Chen ZD, Soltis DE. (2018). Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _The 1st AsiaEvo Conference 2018 (Shenzhen, China)_. Abstract ID: S38. (Poster)
 1. Millar J, Collins M, Picardi S, Riemer K, Stucky B, **_Sun M_**, Ye H. (2018). A Carpentries Culture at the University of Florida. _CarpentryCon 2018_ (Dublin, Ireland), Abstract ID: 13. (Poster)
 1. **Sun M**, Whitten WM, Gitzendanner MA, Soltis DE, Soltis PS. (2017). Exploring the Applicability of Fluidigm Amplification and NGS Sequencing Using Samples From Multiple Families. _The XIX International Botanical Congress 2017 (Shenzhen, China)_, Abstract ID: T2-12-19. (Poster)
 1. **Sun M**, Germain-Aubrey CC, Smith SA, Soltis PS, Chen ZD, Soltis DE. (2017). Exploring the phylogeny and diversification of rosids through a five-gene supermatrix approach. _The XIX International Botanical Congress 2017 (Shenzhen, China)_, Abstract ID: T2-44-15. (Poster)
@@ -169,6 +170,8 @@ diversification using the tools of comparative biology.
 
 - **2019**
 
+    + [Data Carpentry Workshop: Genomics](https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/)
+    + Data Science and Informatics (DSI) [Spring Symposium 2019](http://www.dsiufl.org/symposium) at UF
     + Participated in Writing Workshop at UF Biodiversity Institute  
 Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy/), Associate Professor _Michigan State University_
     + Research Lightning Talks at [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/nhdept/event/postdoctoral-researchers-lightning-talks/)
@@ -247,5 +250,5 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2019-03-08_  
+_Last modification: 2019-03-28_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
