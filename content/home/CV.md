@@ -83,14 +83,15 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_242_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_250_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
-1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. (Submitted) Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. 
-1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (In review) For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_.
 1. Sui XH, **_Sun M_**, Liu Y. (In prep.) Eco-evolutionary pathways of Extinction Risk among Chinese angiosperm genera.
+
+1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. (Submitted) Exploring the phylogeny and diversification of rosids with a five-locus supermatrix.
 1. Shimai H, Whitten M, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
+1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (Submitted after minor revision) For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_. doi: 10.1038/s41396-018-0303-x
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Robert P. Guralnick. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
@@ -159,7 +160,7 @@ diversification using the tools of comparative biology.
 - **2015**
      + Worked in Mountain Lake Biological Station (Virginia State) with Jeremy Lichstein (Department of Biology, University of Florida) and other ecologists collecting DNA, metabolites, RNA materials from canopy trees and understory communities, soil samples, and other microbial materials for **Dimensions US-China Project** ( _Collaborative Research: How historical constraints, local adaptation, and species interactions shape biodiversity across an ancient floristic disjunction Dimensions_).
      + Participated in Talladega National Forest (Alabama State) with Doug Soltis and Pam Soltis (Florida Museum of Natural History, University of Florida) and other ecologists for material collection and first hand data generation for **Dimensions US-China Project**.
-     + Worked in Ordway Biological Station (Florida State) with Mark Whitten, Eric Tripplets, and other ecologists for material collection and first hand data generation for Dimensions US-China Project.  
+     + Worked in Ordway Biological Station (Florida State) with Mark Whitten, Eric Tripplets, and other ecologists for material collection and first hand data generation for **Dimensions US-China Project**.  
 - **2012**  
     + Trip to southern Yunnan along Myanmar border with Pam S. Soltis and Doug E. Soltis, collecting materials for Tree of life --- China Project.
     + Trip to Hainan tropical rain forest with Doug E. Soltis, collecting materials of Tree for life --- China Project.
@@ -226,6 +227,14 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 - Board member of “Red List of China Higher Plants” evaluation committee
 
 ### References contact information
+**Matthew A. Gitzendanner** (Bioinformatics Mentor)  
+Scientist, Department of Biology  
+Collection Manager, Florida Museum of Natural History  
+Training Coordinator and Bioinformatics Specialist, UF Research Computing  
+Email: magitz@ufl.edu  
+Tel.: +1 (352) 273-1960  
+FAX: +1 (352) 846-2154  
+
 **Douglas E. Soltis** (Postdoc advisor)  
 Department of Biology  
 University of Florida  
@@ -246,9 +255,9 @@ Institute of Botany, Chinese Academy of Sciences
 20 Nanxincun, Xiangshan, Beijing 100093, P. R. CHINA  
 Email: zhiduan@ibcas.ac.cn  
 Tel.: +86 10-62836090  
-FAX: +86 10-62590843
+FAX: +86 10-62590843  
 
 
 
-_Last modification: 2019-03-28_  
+_Last modification: 2019-04-20_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
