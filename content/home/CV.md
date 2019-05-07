@@ -83,7 +83,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_250_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_255_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -171,6 +171,8 @@ diversification using the tools of comparative biology.
 
 - **2019**
 
+    + [UF Biodiversity Institute and IFAS Geospatial Workshop](https://uf-carpentry.github.io/2019-05-07_UFBI-IFAS_geospatial/)
+    + [3rd Annual Collaborations in Biodiversity Symposium](https://www.eventbrite.com/e/3rd-annual-collaborations-in-biodiversity-symposium-tickets-54616400123#)
     + [Data Carpentry Workshop: Genomics](https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/)
     + Data Science and Informatics (DSI) [Spring Symposium 2019](http://www.dsiufl.org/symposium) at UF
     + Participated in Writing Workshop at UF Biodiversity Institute  
@@ -259,5 +261,5 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2019-04-20_  
+_Last modification: 2019-05-06_  
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
