@@ -266,4 +266,4 @@ _Last modification: 2019-05-23_
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV (EN){{% /staticref %}}  
 
 
-{{% staticref "files/MiaoSun_CV_cn.pdf" "newtab" %}}Download my CV (CN){{% /staticref %}}
+{{% staticref "files/MiaoSun_CV_cn.pdf" "newtab" %}}CV (CN){{% /staticref %}}
