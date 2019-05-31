@@ -83,15 +83,14 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_263_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 22 publications, h-index 8;  **_264_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
-1. Sui XH, **_Sun M_**, Liu Y. (In prep.) Eco-evolutionary pathways of Extinction Risk among Chinese angiosperm genera.
-
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. (Submitted) Exploring the phylogeny and diversification of rosids with a five-locus supermatrix.
 1. Shimai H, Whitten M, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
-1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (Submitted after minor revision) For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_.
+1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _bioRxiv_ 652065; doi: 10.1101/652065
+1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (Accepted) For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_. doi: 10.1038/s41396-018-0303-x
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Robert P. Guralnick. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
@@ -171,6 +170,7 @@ diversification using the tools of comparative biology.
 
 - **2019**
 
+    + [Biodiversity Research Coordinate Networking](https://osf.io/rs69p/)
     + [UF Biodiversity Institute and IFAS Geospatial Workshop](https://uf-carpentry.github.io/2019-05-07_UFBI-IFAS_geospatial/)
     + [3rd Annual Collaborations in Biodiversity Symposium](https://www.eventbrite.com/e/3rd-annual-collaborations-in-biodiversity-symposium-tickets-54616400123#)
     + [Data Carpentry Workshop: Genomics](https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/)
@@ -261,7 +261,7 @@ FAX: +86 10-62590843
 
 
 
-_Last modification: 2019-05-23_  
+_Last modification: 2019-05-30_  
 
 {{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV (EN){{% /staticref %}}  
 
