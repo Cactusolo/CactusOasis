@@ -6,6 +6,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Teng Yang", "Leho Tedersoo", "Pamela S Soltis", "Douglas E Soltis", "Jack A Gilbert", "**_Miao Sun_**", "Yu Shi", "Hongfei Wang", "Yuntao Li", "Jian Zhang", "others"]
 
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized

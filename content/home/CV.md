@@ -83,14 +83,14 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 22 publications, h-index 8;  **_264_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 23 publications, h-index 8;  **_276_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. (Submitted) Exploring the phylogeny and diversification of rosids with a five-locus supermatrix.
 1. Shimai H, Whitten M, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
 1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _bioRxiv_ 652065; doi: 10.1101/652065
-1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (Accepted) For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_.
+1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (2019). For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_. doi: 10.1002/ecy.2788.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_. doi: 10.1038/s41396-018-0303-x
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Robert P. Guralnick. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
@@ -216,7 +216,7 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 
 ### Service
 
-- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, _Scientific Reports_, and _Phytotaxa_.
+- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, _Scientific Reports_, _Botany_, and _Phytotaxa_.
 - Certified Instructor of Software Carpentry (The Carpentries; taught classes of >400 students)
 - Board member of UF Carpentries Club (a workshop series to teach informatics skills)
 - Judge for Graduate Student Research Day at University of Florida
@@ -228,7 +228,8 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 - Taxonomic instructor for training college students
 - Board member of “Red List of China Higher Plants” evaluation committee
 
-### References contact information
+\newpage
+### References contact information  
 **Matthew A. Gitzendanner** (Bioinformatics Mentor)  
 Scientist, Department of Biology  
 Collection Manager, Florida Museum of Natural History  
@@ -250,20 +251,10 @@ University of Florida
 Gainesville, FL 32611, USA  
 Email: psoltis@flmnh.ufl.edu    
 Phone:  +1 (352) 273-1964  
+   
+   
+   
+   
+  
+\hfill _Last modification: 2019-07-05_  
 
-**Zhiduan Chen** (Ph.D. Supervisor)  
-State Key Laboratory of Systematic and Evolutionary Botany,  
-Institute of Botany, Chinese Academy of Sciences  
-20 Nanxincun, Xiangshan, Beijing 100093, P. R. CHINA  
-Email: zhiduan@ibcas.ac.cn  
-Tel.: +86 10-62836090  
-FAX: +86 10-62590843  
-
-
-
-_Last modification: 2019-05-30_  
-
-{{% staticref "files/MiaoSun_CV.pdf" "newtab" %}}Download my CV (EN){{% /staticref %}}  
-
-
-{{% staticref "files/MiaoSun_CV_cn.pdf" "newtab" %}}CV (CN){{% /staticref %}}
