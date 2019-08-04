@@ -83,12 +83,12 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 23 publications, h-index 8;  **_276_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 23 publications, h-index 8;  **_286_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
-1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. (Submitted) Exploring the phylogeny and diversification of rosids with a five-locus supermatrix.
-1. Shimai H, Whitten M, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
+1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
+1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: https://doi.org/10.1101/694950.
 1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _bioRxiv_ 652065; doi: 10.1101/652065
 1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (2019). For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_. doi: 10.1002/ecy.2788.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_. doi: 10.1038/s41396-018-0303-x
@@ -170,6 +170,7 @@ diversification using the tools of comparative biology.
 
 - **2019**
 
+    + Plantae Seminar: How to Be an Effective Mentor organized by [ Plantae Community](https://community.plantae.org/)
     + [Biodiversity Research Coordinate Networking](https://osf.io/rs69p/)
     + [UF Biodiversity Institute and IFAS Geospatial Workshop](https://uf-carpentry.github.io/2019-05-07_UFBI-IFAS_geospatial/)
     + [3rd Annual Collaborations in Biodiversity Symposium](https://www.eventbrite.com/e/3rd-annual-collaborations-in-biodiversity-symposium-tickets-54616400123#)
@@ -256,5 +257,5 @@ Phone:  +1 (352) 273-1964
    
    
   
-\hfill _Last modification: 2019-07-05_  
+\hfill _Last modification: 2019-08-03_  
 
