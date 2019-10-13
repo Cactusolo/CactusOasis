@@ -12,13 +12,12 @@ disable_comments: yes
 
 ### Contact Information
 
-_Florida Museum of Natural History, University of Florida_  
-_Dickinson Hall, 1659 Museum Rd, PO. Box 117800_  
-_Gainesville, FL 32611-7800, USA_
+_Plant Evolution and Biodiversity (PEB) Group_  
+_Department of Bioscience – Ecoinformatics and Biodiversity, Aarhus University_  
+_Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 
 
-**Email:** cactusresponsible@gmail.com;  
-           cactus@ufl.edu
+**Email:** cactusresponsible@gmail.com; miaosun@bios.au.dk
 
 **Homepage:** <https://www.sunmiao.name>
 
@@ -26,7 +25,11 @@ _Gainesville, FL 32611-7800, USA_
 
 ### Positions
 
-- **Postdoctoral Research Fellow  (2016 ~ present)**  
+- **Postdoctoral Research Fellow  (2019.10 ~ present)**  
+    [Department of Bioscience, Aarhus University](http://bios.au.dk/en/)  
+    Advisor: Dr. [Wolf L. Eiserhardt](https://pebgroup.github.io/)  
+    
+- **Postdoctoral Research Fellow  (2016 ~ 2019.8)**  
     [Florida Museum of Natural History, University of Florida](https://www.floridamuseum.ufl.edu/)  
     Advisor: Dr. [Pamela S. Soltis](https://biodiversity.institute.ufl.edu/about/dr-pamela-s-soltis-director-of-biodiversity-institute/)
     
@@ -83,13 +86,14 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 23 publications, h-index 8;  **_294_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 23 publications, h-index 8;  **_316_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
-1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (Submitted) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA. _Botanical Journal of the Linnean Society_.
+1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
+1. **Sun M**, Folk FA, Gitzendanner MA, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 749325. doi: https://doi.org/10.1101/749325V1.
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: https://doi.org/10.1101/694950.
-1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _bioRxiv_ 652065; doi: 10.1101/652065
+1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _bioRxiv_ 652065. doi: 10.1101/652065 (Accepted by MPE)
 1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (2019). For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_. doi: 10.1002/ecy.2788.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_ 13: 686–697.
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
@@ -124,6 +128,7 @@ diversification using the tools of comparative biology.
 
 #### Conference Presentations/Posters:
 
+1. **Sun M**. (2019). Build and use large-scale phylogenetic trees. _IBCAS Youth Forum_. (Presentation)
 1. **Sun M**. (2018). Building, Using, and Tending the Tree of Life. _Chinese Genomics Meet-up_. (Presentation)
 1. **Sun M**, Germain-Aubrey CC, Smith SA, Soltis PS, Chen ZD, Soltis DE. (2018). Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _The 1st AsiaEvo Conference 2018 (Shenzhen, China)_. Abstract ID: S38. (Poster)
 1. Millar J, Collins M, Picardi S, Riemer K, Stucky B, **_Sun M_**, Ye H. (2018). A Carpentries Culture at the University of Florida. _CarpentryCon 2018_ (Dublin, Ireland), Abstract ID: 13. (Poster)
@@ -227,7 +232,7 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 - Member of Botanical Society of America
 - Table volunteer for iDigBio events
 - Taxonomic instructor for training college students
-- Board member of “Red List of China Higher Plants” evaluation committee
+- Board member of _“Red List of China Higher Plants”_ evaluation committee
 
 \newpage  
 
@@ -254,9 +259,17 @@ Gainesville, FL 32611, USA
 Email: psoltis@flmnh.ufl.edu    
 Phone:  +1 (352) 273-1964  
    
+**Zhiduan Chen** (PhD advisor)  
+State Key Laboratory of Systematic and Evolutionary Botany  
+Institute of Botany  
+Chinese Academy of Sciences  
+Email: zhiduan@ibcas.ac.cn    
+Phone:  +86 010-62836434  
+  
+
    
   
-_Last modification: 2019-08-28_  
+_Last modification: 2019-10-12_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}Download CV{{% /staticref %}}
 {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CN CV{{% /staticref %}}

@@ -20,12 +20,28 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoc on [PhyloSynth Project](https://phylosynth.github.io/)"
+  company = "Department of Bioscience"
+  company_url = "http://bios.au.dk/en/"
+  location = "Aahrus, Denmark"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  * Evaluate data avaiblity of molecular and taxonomic data
+  * Collaborate with Dr. [Stephen Smith](http://blackrim.org/)
+  * Design the best strategy in integrating all data
+  * Reconstruct a global plant tree of life
+  * Apply this large-scale tree in Macro-evolution and -ecology
+  * Publication (_papers, and posters_)
+  """
+  
+[[experience]]
   title = "Postdoc on [Dimensions Project](https://www.usa-china-biodiversity.org/)"
   company = "Florida Museum of Nature History"
   company_url = "https://www.floridamuseum.ufl.edu/"
   location = "Gainesville, FL, USA"
   date_start = "2016-01-02"
-  date_end = ""
+  date_end = "2019-08-30"
   description = """
   * Served as a main communicating point between US and China
   * Data assemblage (_field work and sampling, DNA extraction, evaluation, and sample preparation, molecuar marker design, and molecular data generation_)

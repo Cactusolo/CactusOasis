@@ -13,7 +13,7 @@ title = "Miao Sun | 孙苗"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -56,15 +56,15 @@ enableGitInfo = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Florida", url = "" } ]
+  organizations = [ { name = "Aarhus University (Denmark)", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-# avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  # avatar = "Miao.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   avatar = "portrait2.png" 
   # Details for the Contact Widget
-  email = "cactusATufl.edu"
-  address = "Room 301B, Florida Museum of Natural History, Gainesville, Florida, 32611, USA"
-  phone = "352 two84 o928"
+  email = "cactusresponsibleATgmail.com"
+  address = "Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark"
+  phone = "+45 9one 97 63 1o"
 
   #keybase = ""  # Your keybase.io username.
 
@@ -87,10 +87,10 @@ enableGitInfo = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "56.1681384"
+  longitude = "10.2030118"
   zoom = 15
 
   # SITE SETUP
