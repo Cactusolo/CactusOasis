@@ -43,10 +43,10 @@ I have a keen passion for applying phylogenetic tree as a pivotal framework atte
 
 My research interests are:  
 
-  * Building and using large-scale phylogenetic trees to explore the evolutionary and/or ecological patterns with spatial and/or paleoclimate data. E.g., some workds have done for [rosids]({{< ref "/project/rosids/index.md" >}}).
+  * Building and using large-scale phylogenetic trees to explore the evolutionary and/or ecological patterns with spatial and/or paleoclimate data. E.g., some works have done for [rosids]({{< ref "/project/rosids/index.md" >}}).
   
-  * Investigating the phylogenetic incongruence among data patitions, and deciphering its potential evolutionary cause  
+  * Investigating the phylogenetic incongruence among data partitions, and deciphering its potential evolutionary cause  
   
-  * Studying phylogeny, biogeography, origin and dispersal for the diverse focal clades (e.g., *Elaeagnus*)
+  * Studying taxonomy, phylogeny, biogeography, origin and dispersal for a focal clade (e.g., *Elaeagnus*)
 
 __When NOT struggling for existence, I occasionally do some coding!!__ 
