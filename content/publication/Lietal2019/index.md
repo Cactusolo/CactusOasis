@@ -1,5 +1,5 @@
 +++
-title = "Ecology: For common community phylogenetic analyses, go ahead and use synthesis phylogenies"
+title = "Ecology：For common community phylogenetic analyses, go ahead and use synthesis phylogenies"
 date = 2019-06-21T00:00:00
 draft = false
 
