@@ -5,3 +5,4 @@ public/
 .Rproj.user
 .Rhistory
 *.sh
+resources/

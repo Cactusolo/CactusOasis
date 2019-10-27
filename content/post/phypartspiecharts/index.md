@@ -39,7 +39,7 @@ _We have marched into genome era already, especially using biparental inherited 
 
 *Note: [Matt Johnson](https://github.com/mossmatters/MJPythonNotebooks/blob/master/PhyParts_PieCharts.ipynb) has a great tutorial of how to run his script using Jupyter Notebook. The interpretation of PieCharts is well explained as well.*
 
-My instructions here foucus on the overall procedures from gene trees all the way down to the Pie chart. Hopefully, I'm able to integrate all the step together in one pipeline.
+My instructions here foucus on the overall procedures from gene trees all the way down to the Pie chart. Hopefully, I'm able to integrate all the steps together into one pipeline.
 
 
 ## General steps  
@@ -56,7 +56,7 @@ _Here we need to assess how a number of gene trees how they agree with ours peci
   - Species tree was estimated by [ASTRAL-III](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2129-y), and see tutorials [here](https://github.com/smirarab/ASTRAL/blob/master/astral-tutorial.md#running-on-the-sample-mammalian-dataset)
   - **Note:** Collapse gene tree nodes with BS support less than cerntain value (saying 10%; see cmd below), will help to improve accuracy  
   There are many ways to do this: [phyx](https://github.com/FePhyFoFum/phyx) or [The Newick Utilities](https://github.com/tjunier/newick_utils/wiki)  
-    + using The Newick Utilities  
+    + using The Newick Utilities as example from [ASTRAL-III tutorial](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2129-y) 
       e.g., `nw_ed  1KP-genetrees.tre 'i & b<=10' o > 1KP-genetrees-BS10.tre`  
       
   - ASTRAL **CMD**:  
