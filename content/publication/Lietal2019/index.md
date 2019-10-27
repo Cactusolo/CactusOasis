@@ -46,7 +46,7 @@ projects = ["dimensions", "tree_of_life"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Tree of Life", "Phylogentic Diversity", "Phylogeny", "Community Ecology"]
+tags = ["Tree of Life", "Phylogenetic Diversity", "Phylogeny", "Community Ecology"]
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/publication/333938789_For_common_community_phylogenetic_analyses_go_ahead_and_use_synthesis_phylogenies"
