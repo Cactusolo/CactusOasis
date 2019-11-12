@@ -45,8 +45,7 @@ _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 ### Research Interests
 
 A phylogenetic tree is a pivotal framework for solving fundamental issues in biology.
-My long-term research goal is to use a robust understanding of phylogeny to elucidate
-patterns of evolutionary radiations in angiosperms and to address the causes of plant
+My long-term research goal is to use a robust phylogeny to elucidate patterns of evolutionary radiations in angiosperms and to address the causes of plant
 diversification using the tools of comparative biology.
 
 ### Education
@@ -63,7 +62,8 @@ diversification using the tools of comparative biology.
     
 + **Molecular biology skills**:
     
-    DNA extraction, clone, PCR, sequencing, genome assembling, and genome size measurement
+    DNA extraction, clone, PCR, sequencing, genome assembling, and genome size measurement  
+    _Experienced in [Target Enrichment data analyses](https://github.com/Cactusolo/IESHTSTE) using [aTRAM](https://github.com/juliema/aTRAM) and [HybPiper](https://github.com/mossmatters/HybPiper), and gene tree congruence [visulizaion](https://www.sunmiao.name/post/phypartspiecharts/) using [Phyparts](https://github.com/juliema/aTRAM) and [Pycharts](https://github.com/mossmatters/MJPythonNotebooks/blob/master/PhyParts_PieCharts.ipynb)._
     
 + **Bioinformatical skills**:
 
@@ -86,7 +86,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 23 publications, h-index 8;  **_323_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 23 publications, h-index 8;  **_336_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -234,8 +234,6 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 - Taxonomic instructor for training college students
 - Board member of _“Red List of China Higher Plants”_ evaluation committee
 
-\newpage  
-
 ### References contact information  
 **Matthew A. Gitzendanner** (Bioinformatics Mentor)  
 Scientist, Department of Biology  
@@ -269,7 +267,7 @@ Phone:  +86 010-62836434
 
    
   
-_Last modification: 2019-10-27_  
+_Last modification: 2019-11-12_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}Download CV{{% /staticref %}}
 {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CN CV{{% /staticref %}}
