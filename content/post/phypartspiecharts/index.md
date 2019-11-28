@@ -49,7 +49,13 @@ _Here we need to assess how a number of gene trees how they agree with ours peci
 ### 1. Building phylogeny, so that we have all gene trees  
   - My data was generated from 353 target enrichment method
   - I used 322 gene trees from _Sassafras_ samples as example
-  - All trees were rooted by either [phyx](https://github.com/FePhyFoFum/phyx) or [The Newick Utilities](https://github.com/tjunier/newick_utils/wiki), or [DendroPy](https://pypi.org/project/DendroPy/).  
+  - Note:  
+    + All trees were rooted by either [phyx](https://github.com/FePhyFoFum/phyx) or [The Newick Utilities](https://github.com/tjunier/newick_utils/wiki), or [DendroPy](https://pypi.org/project/DendroPy/)  
+    + Though [ASTRAL](https://github.com/smirarab/ASTRAL/blob/master/astral-tutorial.md#running-with-unresolved-gene-trees) is able to take any gene trees rooted or unrooted, however, for downstream Phyparts performance, rooted trees are preferred. Such so all gene trees and species trees are towards to the same root direction (See [Matt Johnson's post](https://github.com/mossmatters/MJPythonNotebooks/blob/master/PhyParts_PieCharts.ipynb)).
+    + As quote in [ASTRAL tutorial](https://github.com/smirarab/ASTRAL/blob/master/astral-tutorial.md#running-with-unresolved-gene-trees):   
+    _"Importantly, we will reroot the tree at the correct node, which is always necessary, since the rooting of the ASTRAL trees is arbitrary and meaningless."_  
+    
+    **Therefore, rooting all the trees is preferred for Phyparts Piecharts.**
   
 ### 2. Species tree estimation  
 
