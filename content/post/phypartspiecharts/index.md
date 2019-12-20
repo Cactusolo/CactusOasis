@@ -91,6 +91,8 @@ _Note: please read the tutorial, **Python 2.7 and ETE3** with the graphical opti
 ### 5. Visualize the gene tree support and conflic statics with Piecharts##
   - the output format of PhyParts PieCharts is in `svg`, then you need to Inkscape or AI to convert it as `pdf`. You also can refine the overall layout of that plot.  
   
+  - Note: make sure Python3, ETE3, and [X server](https://kovyrin.net/2007/10/01/how-to-run-gui-programs-on-a-server-without-any-monitor/) installed.
+  
   As my plot below:  
 
 {{< figure src="featured.jpg" title="" numbered="true" >}}
