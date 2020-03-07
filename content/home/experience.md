@@ -36,6 +36,19 @@ date_format = "January 2006"
   """
   
 [[experience]]
+  title = "Visiting Scholar on [PhyloSynth Project](https://phylosynth.github.io/)"
+  company = "Ecology and Evolutionary Biology (EEB)"
+  company_url = "https://lsa.umich.edu/eeb"
+  location = "Ann Arbor, Michigan, USA"
+  date_start = "2020-03-01"
+  date_end = "2020-08-31"
+  description = """
+  * Supervised under Dr. [Stephen Smith](http://blackrim.org/) and Dr. [Wolf L. Eiserhardt](https://scholar.google.com/citations?user=X419fPAAAAAJ&hl=de)
+  * Design the best strategy in integrating all data
+  * Reconstruct a global plant tree of life
+  """
+  
+[[experience]]
   title = "Postdoc on [Dimensions Project](https://www.usa-china-biodiversity.org/)"
   company = "Florida Museum of Nature History"
   company_url = "https://www.floridamuseum.ufl.edu/"

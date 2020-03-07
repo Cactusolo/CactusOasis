@@ -86,13 +86,14 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 23 publications, h-index 8;  **_353_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 23 publications, h-index 9;  **_389_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
-1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
-1. **Sun M**, Folk FA, Gitzendanner MA, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _bioRxiv_ 749325. doi: https://www.biorxiv.org/content/10.1101/749325v1.
-1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
+1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.  
+1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.  
+1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ (**Accepted**; also see [_bioRxiv 749325_]( https://www.biorxiv.org/content/10.1101/749325v1)).  
+1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. The evolutionary origins of the cat attractant nepetalactone in catnip. (2020). _Science Advances_ (**Accepted**).  
 1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _Molecular Phylogenetics and Evolution_ 142: 106659. doi: 10.1016/j.ympev.2019.106659
 1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (2019). For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_. doi: 10.1002/ecy.2788.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_ 13: 686–697.
@@ -235,20 +236,6 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 - Board member of _“Red List of China Higher Plants”_ evaluation committee
 
 ### References contact information  
-**Matthew A. Gitzendanner** (Bioinformatics Mentor)  
-Scientist, Department of Biology  
-Collection Manager, Florida Museum of Natural History  
-Training Coordinator and Bioinformatics Specialist, UF Research Computing  
-Email: magitz@ufl.edu  
-Tel.: +1 (352) 273-1960  
-FAX: +1 (352) 846-2154  
-
-**Douglas E. Soltis** (Postdoc advisor)  
-Department of Biology  
-University of Florida  
-Gainesville, FL 32611, USA  
-Email: dsoltis@ufl.edu  
-Phone:  +1 (352) 273-1963  
 
 **Pamela S. Soltis** (Postdoc advisor)  
 Florida Museum of Natural History  
@@ -256,6 +243,13 @@ University of Florida
 Gainesville, FL 32611, USA  
 Email: psoltis@flmnh.ufl.edu    
 Phone:  +1 (352) 273-1964  
+
+**Douglas E. Soltis** (Postdoc advisor)  
+Department of Biology  
+University of Florida  
+Gainesville, FL 32611, USA  
+Email: dsoltis@ufl.edu  
+Phone:  +1 (352) 273-1963  
    
 **Zhiduan Chen** (PhD advisor)  
 State Key Laboratory of Systematic and Evolutionary Botany  
@@ -264,10 +258,16 @@ Chinese Academy of Sciences
 Email: zhiduan@ibcas.ac.cn    
 Phone:  +86 010-62836434  
   
-
+**Matthew A. Gitzendanner** (Bioinformatics Mentor)  
+Scientist, Department of Biology  
+Collection Manager, Florida Museum of Natural History  
+Training Coordinator and Bioinformatics Specialist, UF Research Computing  
+Email: magitz@ufl.edu  
+Tel.: +1 (352) 273-1960  
+FAX: +1 (352) 846-2154  
    
   
-_Last modification: 2019-12-20_  
+_Last modification: 2020-03-07_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}Download CV{{% /staticref %}}
 {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CN CV{{% /staticref %}}
