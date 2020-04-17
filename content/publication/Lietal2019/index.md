@@ -26,7 +26,7 @@ abstract = "Should we build our own phylogenetic trees based on gene sequence da
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -26,7 +26,7 @@ abstract = " _Rosidae_, a clade of approximately 90,000 species of angiosperms, 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
