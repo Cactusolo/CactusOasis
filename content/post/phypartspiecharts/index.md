@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Miao Sun"]
 
-tags = ["Dimensions", "Incongruence", "Phyparts Piecharts", "ASTRAL", "Phylogeny", "genomice data"]
+tags = ["Dimensions", "Incongruence", "Phyparts Piecharts", "ASTRAL", "Phylogeny", "Genomics", "Phylogenomics"]
 summary = "Explained the importance of understanding the underlying conflict among gene trees. List all the steps required to reach the final stage of data visualization. Along with each step, necesary methods (software, an scripts) and data sets are also deatailed."
 
 # Projects (optional).

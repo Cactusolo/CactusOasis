@@ -37,7 +37,7 @@ projects = ["tree_of_life", "rosids"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["rosids", "genomic dtat", "phylogeny", "Incongruence"]
+tags = ["rosids", "Genomics", "Phylogeny", "Incongruence"]
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S105579031400387X"
