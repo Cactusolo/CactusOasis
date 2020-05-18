@@ -60,7 +60,7 @@ enableGitInfo = true
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   # avatar = "Miao.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  avatar = "portrait2.png" 
+  avatar = "MS.jpeg" 
   # Details for the Contact Widget
   email = "cactusresponsibleATgmail.com"
   address = "Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark"
