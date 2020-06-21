@@ -91,9 +91,10 @@ diversification using the tools of comparative biology.
 #### Papers:
 
 1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
+
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
 1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ (**Accepted**).
-1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ doi: 10.1002/ajb2.1479 (**Accepted**; also see [_bioRxiv 749325_]( https://www.biorxiv.org/content/10.1101/749325v1)).
+1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
 1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
 1. Mu XY, Tong L, _**Sun M**_, Zhu YX, Wen J, Lin QW, Liu B. (2020). Phylogeny and divergence time estimation of the walnut family (Juglandaceae) based on nuclear RAD-Seq and chloroplast genome data. _Molecular Phylogenetics and Evolution_ 147: 106802. doi: 10.1016/j.ympev.2020.106802.
 1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _Molecular Phylogenetics and Evolution_ 142: 106659. doi: 10.1016/j.ympev.2019.106659.
@@ -130,7 +131,8 @@ diversification using the tools of comparative biology.
 1. **Sun M**. (2009). Primary Taxonomic Study of Elaeagnus (Elaeagnaceae) in Mainland China. [Master thesis], Institute of Botany, the Chinese Academy of Sciences, Beijing, China
 
 #### Conference Presentations/Posters:
-
+1. **Sun M**, Folk RA, Gitzendanner M, Smith AS, Chen ZD, Solits P, Soltis D. (2020). Phylogenetic and diversification analyses of rosids. _Botany Conference_. (Presentation)
+1. Abair A, Godden G, **_Sun M_**, El-Bahawy A, Soltis D, Soltis P. (2020). Assembling and Dating a Near-Comprehensive Phylogeny of Lamiaceae. _Botany Conference_. (Presentation)
 1. **Sun M**. (2019). Build and use large-scale phylogenetic trees. _IBCAS Youth Forum_. (Presentation)
 1. **Sun M**. (2018). Building, Using, and Tending the Tree of Life. _Chinese Genomics Meet-up_. (Presentation)
 1. **Sun M**, Germain-Aubrey CC, Smith SA, Soltis PS, Chen ZD, Soltis DE. (2018). Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _The 1st AsiaEvo Conference 2018 (Shenzhen, China)_. Abstract ID: S38. (Poster)
@@ -178,6 +180,7 @@ diversification using the tools of comparative biology.
 
 - **2020**  
 
+    + [Introduction to Command Line Meeting Information](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-the-linux-command-line-23/); [Research Computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/); [Advanced research computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/)  
     + PSC Bioinformatics Workshop - [Snakemake Workflows](https://github.com/Cactusolo/Snakemake_tutorial_case/blob/master/tutorial.pdf)  
     _Workflow management, version control via Git and Bitbucket, build a reproducible and adaptable pipeline using Snakemake_  - Wendell Pereira    
     + Vitual senimar: _Modern Systematics and Illuminating Hidden Relationships of Plants_  - Tony Reznicek  
@@ -286,7 +289,7 @@ Tel.: +1 (352) 273-1960
 FAX: +1 (352) 846-2154  
    
   
-_Last modification: 2020-05-15_  
+_Last modification: 2020-06-20_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}}
 {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
