@@ -86,14 +86,15 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 26 publications, h-index 9;  **_422_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 26 publications, h-index 9;  **_452_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
 
+
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
-1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ (**Accepted**).
+1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
 1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
 1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
 1. Mu XY, Tong L, _**Sun M**_, Zhu YX, Wen J, Lin QW, Liu B. (2020). Phylogeny and divergence time estimation of the walnut family (Juglandaceae) based on nuclear RAD-Seq and chloroplast genome data. _Molecular Phylogenetics and Evolution_ 147: 106802. doi: 10.1016/j.ympev.2020.106802.
@@ -289,7 +290,7 @@ Tel.: +1 (352) 273-1960
 FAX: +1 (352) 846-2154  
    
   
-_Last modification: 2020-06-20_  
+_Last modification: 2020-07-03_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}}
 {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}

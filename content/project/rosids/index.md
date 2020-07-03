@@ -11,7 +11,7 @@ summary = " **Rosids**, among the largest clades of angiosperms (90,000–120,00
 # Tags: can be used for filtering projects.
 # Example: `tags = ["rosids", "diversitification"]`
 
-tags = ["rosids", "Phylogeny", "Supermatrix", "Diversification"]
+tags = ["rosids", "Phylogeny", "Supermatrix", "Diversification", "Macroevolution"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -38,11 +38,13 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "rosid diversification by MEDUSA"
+  caption = "Fig.1. Sun et al. (2020)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-We recently used large biodiversity datasets representing the state of the art in rosids to understand (1) sampling bias that persists in major flowering plant clades, (2) the association of historical temperature trends with rosid diversification, and (3) the impact of sampling scales on commonly used diversification methods. We used previously published data (Hinchliff et al. 2015; Sun et al., 2016) and generated a new 5-locus, 19,740-taxon supermatrix that doubles sampling of DNA data compared to earlier studies to reconstruct rosid phylogeny. We feel that this paper will be of broad interest to systematic and evolutionary biologists. Even with nearly 20,000 species, our sampling represents < 20% of all rosids, with ecologically important families having sampling as low as 5%. Thus, although angiosperms are often considered well-studied phylogenetically, the rosids exemplify well the poor overall state of knowledge of flowering plants.
+We recently used large biodiversity datasets representing the state of the art in rosids to explore (1) [phylogenetic and dating uncertainties, and sampling bias persisted in major flowering plant clades](https://www.biorxiv.org/content/10.1101/694950v2), and (2) [the impacts of incomplete sampling schemes on different diversification methods]({{< ref "/publication/Sun_rosid3_2020/index.md" >}}); (3) with deep understand of our data and methods, we then further [explored the association betweed rosid diversification and tropicality, and both historical and present-day temperature]({{< ref "/publication/Sun_rosid2_2020/index.md" >}}).   
+
+As more molecular data, species distribution data, and other ecological data available, we'll continously work on developing climatic layers over time that can trace the expansion of strong seasonality, and especially areas with seasonal freezing temperatures.  These layers, when coupled with more fine-grained, modeled past and present species distribution information would provide a strong basis for more explicit testing of current pattern with more mechanism-focused hypothesis.  
