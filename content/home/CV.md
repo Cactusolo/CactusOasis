@@ -86,7 +86,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 26 publications, h-index 9;  **_452_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 9;  **_460_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -94,6 +94,7 @@ diversification using the tools of comparative biology.
 
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
+1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ (accepted).
 1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
 1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
 1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
@@ -121,6 +122,7 @@ diversification using the tools of comparative biology.
 
 #### Book chapters:
 
+1. **_Sun M_** et al. (2020). Malvaceae, Malpighiaceae, Celastraceae. In: Chen ZD, Lu AM, Liu B et al. eds. **_Tree of Life for Chinese Vascular Plants_**, Science Press, Beijing
 1. **_Sun M_** et al. (2018). Malvaceae, Malpighiaceae, Celastraceae. In: Li DZ, Chen ZD, Wnag H, Lu AM eds. **_Flora of Genera and Families of China Vascular Plants_**, Science Press, Beijing
 1. **_Sun M_** et al. (2018). Malvaceae, Malpighiaceae, Celastraceae. In: Li DZ, Chen ZD, Wnag H, Lu AM eds. **_Dictionary of Genera and Families of China Vascular Plants_**, Science Press, Beijing
 1. **_Sun M_**, Peng H. (2016). Elaeagnaceae. In: Liu B, Lin QW eds. **_Higher Plants of China in Color_**, Volume 5, Angiosperms: Euphorbiaceae --- Cornaceae, Science Press, Beijing, China 
@@ -181,6 +183,7 @@ diversification using the tools of comparative biology.
 
 - **2020**  
 
+    + [Introduction to Python’s NumPy library](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-pythons-numpy-library-3/)  
     + [Introduction to Command Line Meeting Information](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-the-linux-command-line-23/); [Research Computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/); [Advanced research computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/)  
     + PSC Bioinformatics Workshop - [Snakemake Workflows](https://github.com/Cactusolo/Snakemake_tutorial_case/blob/master/tutorial.pdf)  
     _Workflow management, version control via Git and Bitbucket, build a reproducible and adaptable pipeline using Snakemake_  - Wendell Pereira    
@@ -290,7 +293,7 @@ Tel.: +1 (352) 273-1960
 FAX: +1 (352) 846-2154  
    
   
-_Last modification: 2020-07-03_  
+_Last modification: 2020-07-15_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}}
 {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
