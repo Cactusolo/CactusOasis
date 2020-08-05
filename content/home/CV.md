@@ -21,7 +21,13 @@ _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 
 **Homepage:** <https://www.sunmiao.name>
 
-**Twitter:** [ \@Miao_the_Sun](https://twitter.com/Miao_the_Sun)
+**Twitter:** [ \@Miao_the_Sun](https://twitter.com/Miao_the_Sun)  
+
+### Education
+
+- 2009 ~ 2014, PhD in Botany, Institute of Botany, Chinese Academy of Sciences
+- 2006 ~ 2009, Master of Botany, Institute of Botany, Chinese Academy of Sciences
+- 2002 ~ 2006, Bachelor of Environmental Science, College of Resources and Environment, Beijing Forestry University
 
 ### Positions
 
@@ -48,11 +54,6 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 My long-term research goal is to use a robust phylogeny to elucidate patterns of evolutionary radiations in angiosperms and to address the causes of plant
 diversification using the tools of comparative biology.
 
-### Education
-
-- 2009 ~ 2014, PhD in Botany, Institute of Botany, Chinese Academy of Sciences
-- 2006 ~ 2009, Master of Botany, Institute of Botany, Chinese Academy of Sciences
-- 2002 ~ 2006, Bachelor of Environmental Science, College of Resources and Environment, Beijing Forestry University
 
 ### Research Skills
 
@@ -67,7 +68,7 @@ diversification using the tools of comparative biology.
     
 + **Bioinformatical skills**:
 
-    - Experienced with standard biological software and genome dataset analysis (e.g., probe design, genome assembly)
+    - Experienced with high performance computing environment, standard biological software, and genome dataset analysis (e.g., probe design, genome assembly)
     - Proficient in Shell, R, git, Perl, and Python programming languages, familiar with SQL, version control (git), experienced in applied programming for biological data analysis and reproducible data science.
     
     
@@ -86,7 +87,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 9;  **_460_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 9;  **_478_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -95,8 +96,8 @@ diversification using the tools of comparative biology.
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
 1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ (accepted).
-1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
-1. **Sun M**, Folk FA, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
+1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
+1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
 1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
 1. Mu XY, Tong L, _**Sun M**_, Zhu YX, Wen J, Lin QW, Liu B. (2020). Phylogeny and divergence time estimation of the walnut family (Juglandaceae) based on nuclear RAD-Seq and chloroplast genome data. _Molecular Phylogenetics and Evolution_ 147: 106802. doi: 10.1016/j.ympev.2020.106802.
 1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _Molecular Phylogenetics and Evolution_ 142: 106659. doi: 10.1016/j.ympev.2019.106659.
@@ -104,7 +105,7 @@ diversification using the tools of comparative biology.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_ 13: 686–697.
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Robert P. Guralnick. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
-1. Lu LM, Mao L, Yang T, Ye JF, Liu B, Li HL, **_Sun M\*_**, Miller JT, Mathews S, Hu HH, Niu YT, Peng DX, Chen YH, Smith SA, Chen M, Xiang KL, Le CT, Dang VC, Lu AM, Soltis PS, Soltis DE, Li JH, Chen ZD. (2018). Evolutionary history of the angiosperm flora of China. _Nature_ 554: 234–238. doi: 10.1038/nature25485.
+1. Lu LM\*, Mao L\*, Yang T\*, Ye JF\*, Liu B\*, Li HL\*, **_Sun M\*_**, Miller JT, Mathews S, Hu HH, Niu YT, Peng DX, Chen YH, Smith SA, Chen M, Xiang KL, Le CT, Dang VC, Lu AM, Soltis PS, Soltis DE, Li JH, Chen ZD. (2018). Evolutionary history of the angiosperm flora of China. _Nature_ 554: 234–238. doi: 10.1038/nature25485.
 1. Mu XY, **_Sun M_**, Yang PF, Lin QW. (2017). Unveiling the identity of Wenwan walnuts and phylogenetic relationships of Asian Juglans species using restriction site-associated DNA-sequencing. _Frontiers in Plant Science_ (8): 1708. doi: 10.3389/fpls.2017.01708
 1. Hodel RG, Gitzendanner MA, Germain-Aubrey CC, Liu X, Crowl AA, **_Sun M_**, Landis JB, Segovia-Salcedo MC, Douglas NA, Chen SC, Soltis DE, Soltis PS. (2016). A new resource for the development of SSR markers: Millions of loci from a thousand plant transcriptomes. _Applications in Plant Sciences_ 4(6): 1600024.
 1. Hodel RG, Segovia-Salcedo MC, Landis JB, Crowl AA, **_Sun M_**, Liu XX, Gitzendanner MA, Douglas NA, Germain-Aubrey CC, Chen SC, Soltis DE, Soltis PS. (2016). The report of my death was an exaggeration: A review for researchers using microsatellites in the 21st century. _Applications in Plant Sciences_ 4(6): 1600025.
@@ -167,7 +168,7 @@ diversification using the tools of comparative biology.
     + Taxonomy of Vascular Plants ( _BOT5725C_ )
     + Principles of Systematic Biology ( _BOT6726/ZOO6927_ )
     
-### Fieldwork Experience
+### Botanical Exploration & Fieldtrip
 
 - **2015**
      + Worked in Mountain Lake Biological Station (Virginia State) with Jeremy Lichstein (Department of Biology, University of Florida) and other ecologists collecting DNA, metabolites, RNA materials from canopy trees and understory communities, soil samples, and other microbial materials for **Dimensions US-China Project** ( _Collaborative Research: How historical constraints, local adaptation, and species interactions shape biodiversity across an ancient floristic disjunction Dimensions_).
@@ -241,7 +242,7 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 
 ### Service
 
-- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, _Scientific Reports_, _Botany_, _PeerJ_, _Journal of Agriculture and Rural Development in the Tropics and Subtropics_, and _Phytotaxa_.  
+- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, _Scientific Reports_, _Botany_, _PeerJ_, _Journal of Agriculture and Rural Development in the Tropics and Subtropics_, _Plants_, and _Phytotaxa_.  
 - Certified Instructor of Software Carpentry (The Carpentries; taught classes of >400 students)
 - Board member of UF Carpentries Club (a workshop series to teach informatics skills)
 - Judge for Graduate Student Research Day at University of Florida
@@ -275,25 +276,23 @@ Ny Munkegade 116
 building 1535, 225  
 8000 Aarhus C, Denmark  
 Email: wolf.eiserhardt@bios.au.dk  
-Phone: +4587156136  
-   
+Phone: +45 87156136  
+  
+**Stephen A. Smith** (Postdoc advisor)  
+Ecology and Evolutionary Biology  
+University of Michigan  
+Ann Arbor, MI 48109, USA  
+Email: eebsmith@umich.edu  
+Phone: +1 (734) 764-7923  
+
 **Zhiduan Chen** (PhD advisor)  
 State Key Laboratory of Systematic and Evolutionary Botany  
 Institute of Botany  
 Chinese Academy of Sciences  
 Email: zhiduan@ibcas.ac.cn    
 Phone:  +86 010-62836434  
-  
-**Matthew A. Gitzendanner** (Bioinformatics Mentor)  
-Scientist, Department of Biology  
-Collection Manager, Florida Museum of Natural History  
-Training Coordinator and Bioinformatics Specialist, UF Research Computing  
-Email: magitz@ufl.edu  
-Tel.: +1 (352) 273-1960  
-FAX: +1 (352) 846-2154  
    
   
-_Last modification: 2020-07-15_  
+_Last update: 2020-08-05_  
 
-{{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}}
-{{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
+{{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
