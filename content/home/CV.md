@@ -13,11 +13,11 @@ disable_comments: yes
 ### Contact Information
 
 _Plant Evolution and Biodiversity (PEB) Group_  
-_Department of Bioscience – Ecoinformatics and Biodiversity, Aarhus University_  
+_Department of Biology – Ecoinformatics and Biodiversity, Aarhus University_  
 _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 
 
-**Email:** cactusresponsible@gmail.com; miaosun@bios.au.dk
+**Email:** cactusresponsible@gmail.com; miaosun@bio.au.dk
 
 **Homepage:** <https://www.sunmiao.name>
 
@@ -87,7 +87,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 9;  **_478_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 10;  **_500_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -278,7 +278,7 @@ building 1535, 225
 Email: wolf.eiserhardt@bios.au.dk  
 Phone: +45 87156136  
   
-**Stephen A. Smith** (Postdoc advisor)  
+**Stephen A. Smith** (Collaborator)  
 Ecology and Evolutionary Biology  
 University of Michigan  
 Ann Arbor, MI 48109, USA  
@@ -293,6 +293,6 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-08-05_  
+_Last update: 2020-09-06_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
