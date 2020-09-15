@@ -32,8 +32,8 @@ _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 ### Positions
 
 - **Postdoctoral Research Fellow  (2019.10 ~ present)**  
-    [Department of Bioscience, Aarhus University](http://bios.au.dk/en/)  
-    Advisor: Dr. [Wolf L. Eiserhardt](https://pebgroup.github.io/)  
+    [Department of Bioscience, Aarhus University](http://bio.au.dk/en/)  
+    Advisor: Dr. [Wolf L. Eiserhardt](https://peb-group.net/who-are-we)  
     
 - **Postdoctoral Research Fellow  (2016 ~ 2019.8)**  
     [Florida Museum of Natural History, University of Florida](https://www.floridamuseum.ufl.edu/)  
@@ -87,7 +87,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 10;  **_500_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 10;  **_511_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -95,7 +95,7 @@ diversification using the tools of comparative biology.
 
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
-1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ (accepted).
+1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 00: 1– 6. doi: 10.1111/jbi.13947.
 1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
 1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
 1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
@@ -184,14 +184,15 @@ diversification using the tools of comparative biology.
 
 - **2020**  
 
-    + [Introduction to Python’s NumPy library](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-pythons-numpy-library-3/)  
-    + [Introduction to Command Line Meeting Information](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-the-linux-command-line-23/); [Research Computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/); [Advanced research computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/)  
+    + Podcast Interview by [In Defense Of Plants](https://www.indefenseofplants.com/) --- [The Rosid Radiation](https://www.indefenseofplants.com/podcast/2020/9/13/ep-282-the-rosid-radiation)
+    + [Introduction to Python’s NumPy library](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-pythons-numpy-library-3/)
+    + [Introduction to Command Line Meeting Information](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-the-linux-command-line-23/); [Research Computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/); [Advanced research computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/)
     + PSC Bioinformatics Workshop - [Snakemake Workflows](https://github.com/Cactusolo/Snakemake_tutorial_case/blob/master/tutorial.pdf)  
-    _Workflow management, version control via Git and Bitbucket, build a reproducible and adaptable pipeline using Snakemake_  - Wendell Pereira    
+    _Workflow management, version control via Git and Bitbucket, build a reproducible and adaptable pipeline using Snakemake_  - Wendell Pereira
     + Vitual senimar: _Modern Systematics and Illuminating Hidden Relationships of Plants_  - Tony Reznicek  
-     _Description: This will be a review and update of the impact on Michigan Flora (and plant classification generally) of recent work in molecular systematics. This meeting is being held jointly with Matthaei Botanical Gardens Herb Study Group._  
+     _Description: This will be a review and update of the impact on Michigan Flora (and plant classification generally) of recent work in molecular systematics. This meeting is being held jointly with Matthaei Botanical Gardens Herb Study Group._
     + Co-organizer and member of the [COVID-19 HPC Consortium](http://www.covid19tree.org)
-    + Visiting Scholar at on Ecology and Evolutionary Biology (EEB) Dept., University of Michigan (UM) [March 2020 – August 2020; Ann Arbor, Michigan, USA]  
+    + Visiting Scholar at on Ecology and Evolutionary Biology (EEB) Dept., University of Michigan (UM) [March 2020 – August 2020; Ann Arbor, Michigan, USA]
     
 - **2019**
 
@@ -293,6 +294,6 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-09-06_  
+_Last update: 2020-09-15_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}

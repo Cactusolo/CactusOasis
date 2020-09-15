@@ -10,7 +10,7 @@ draft = false
 authors = ["Miao Sun"]
 
 tags = ["Botany", "Taxonomy", "Field Work"]
-summary = ""
+summary = "Dive deep into the big mountains and forests, and completely immerse myself into Mother Nature with all my heart and soul. Because I'm able to feel it from the smell in the air of the forest and the songs from birds, when I'm writing the paper."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -18,7 +18,7 @@ summary = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["taxonomy"]
+projects = ["taxonomy"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

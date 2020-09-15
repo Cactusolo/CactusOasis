@@ -62,7 +62,7 @@ url_source = "https://www.nature.com/articles/s41467-020-17116-5"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{icon_pack = "fab", icon="podcast", name="podcast", url = "https://www.indefenseofplants.com/podcast/2020/9/13/ep-282-the-rosid-radiation"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1038/s41467-020-17116-5"

@@ -32,7 +32,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/Miao_the_Sun"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/Miao_the_Sun"}, {icon_pack = "fab", icon="podcast", name="podcast", url = "https://www.indefenseofplants.com/podcast/2020/9/13/ep-282-the-rosid-radiation"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

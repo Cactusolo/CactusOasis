@@ -51,7 +51,11 @@ filter_default = 0
  [[filter]]
    name = "Tree of Life"
    tag = "Tree of Life"
- 
+   
+  [[filter]]
+   name = "PhyloSynth"
+   tag = "seed plant tree"
+   
  [[filter]]
    name = "Other"
    tag = "Taxonomy"
