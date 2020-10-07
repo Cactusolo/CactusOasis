@@ -69,7 +69,7 @@ diversification using the tools of comparative biology.
 + **Bioinformatical skills**:
 
     - Experienced with high performance computing environment, standard biological software, and genome dataset analysis (e.g., probe design, genome assembly)
-    - Proficient in Shell, R, git, Perl, and Python programming languages, familiar with SQL, version control (git), experienced in applied programming for biological data analysis and reproducible data science.
+    - Proficient in Shell, R, Perl, and Python programming languages, familiar with SQL, version control (git), experienced in applied programming for biological data analysis and reproducible data science.
     
     
 + **Language skills**:
@@ -87,7 +87,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 10;  **_511_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 11;  **_526_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -95,7 +95,7 @@ diversification using the tools of comparative biology.
 
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
-1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 00: 1– 6. doi: 10.1111/jbi.13947.
+1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 47: 2286–2291. doi: 10.1111/jbi.13947.
 1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
 1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Estimating rates and patterns of diversification with incomplete sampling: A case study in the rosids. _American Journal of Botany_ 107(6): 1–15. doi: 10.1002/ajb2.1479 (also see [_bioRxiv 749325_](https://www.biorxiv.org/content/10.1101/749325v1)).
 1. Lichman BR, Godden GT, Hamilton JP, Lira Palmer L, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
@@ -184,6 +184,7 @@ diversification using the tools of comparative biology.
 
 - **2020**  
 
+    + ["A short introduction to the aims and status of modern C++"](https://events.au.dk/bjarnestoustrup/conference) Talked by [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup) at Department of Computer Science, Aarhus University
     + Podcast Interview by [In Defense Of Plants](https://www.indefenseofplants.com/) --- [The Rosid Radiation](https://www.indefenseofplants.com/podcast/2020/9/13/ep-282-the-rosid-radiation)
     + [Introduction to Python’s NumPy library](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-pythons-numpy-library-3/)
     + [Introduction to Command Line Meeting Information](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-the-linux-command-line-23/); [Research Computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/); [Advanced research computing on the Great Lakes Cluster](https://ttc.iss.lsa.umich.edu/ttc/sessions/advanced-research-computing-on-the-great-lakes-cluster-3/)
@@ -243,7 +244,7 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 
 ### Service
 
-- Peer reviews for: _South African Journal of Botany_, _Evolutionary Bioinformatics_, _Journal of Systematics and Evolution_, _International Journal of Tropical Biology and Conservation_, _Plant Physiology and Biochemistry_, _Taxon_, _Scientific Reports_, _Botany_, _PeerJ_, _Journal of Agriculture and Rural Development in the Tropics and Subtropics_, _Plants_, and _Phytotaxa_.  
+- Peer reviews for: _Botany_, _Evolutionary Bioinformatics_, _International Journal of Tropical Biology and Conservation_, _Journal of Agriculture and Rural Development in the Tropics and Subtropics_, _Journal of Systematics and Evolution_, _Molecular Phylogenetics and Evolution_, _Scientific Reports_, _South African Journal of Botany_, _Taxon_, _PeerJ_, _Phytotaxa_, _Plants_, and _Plant Physiology and Biochemistry_.  
 - Certified Instructor of Software Carpentry (The Carpentries; taught classes of >400 students)
 - Board member of UF Carpentries Club (a workshop series to teach informatics skills)
 - Judge for Graduate Student Research Day at University of Florida
@@ -294,6 +295,5 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-09-15_  
-
+_Last update: 2020-10-07_  
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
