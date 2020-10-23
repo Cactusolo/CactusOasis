@@ -87,7 +87,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 11;  **_526_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 11;  **_544_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -184,6 +184,7 @@ diversification using the tools of comparative biology.
 
 - **2020**  
 
+    + ["the State of the World's Plants and Fungi Virtual Symposium"](https://www.kew.org/science/engage/get-involved/conferences/state-of-the-worlds-plants-and-fungi-symposium#:~:text=Join%20international%20experts%20on%2013,event%20has%20now%20taken%20place.) organized by [the Royal Botanic Gardens, Kew](https://www.kew.org/)
     + ["A short introduction to the aims and status of modern C++"](https://events.au.dk/bjarnestoustrup/conference) Talked by [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup) at Department of Computer Science, Aarhus University
     + Podcast Interview by [In Defense Of Plants](https://www.indefenseofplants.com/) --- [The Rosid Radiation](https://www.indefenseofplants.com/podcast/2020/9/13/ep-282-the-rosid-radiation)
     + [Introduction to Python’s NumPy library](https://ttc.iss.lsa.umich.edu/ttc/sessions/introduction-to-pythons-numpy-library-3/)
@@ -295,5 +296,5 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-10-07_  
+_Last update: 2020-10-23_  
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}

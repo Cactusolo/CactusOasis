@@ -17,6 +17,13 @@ weight = 60
 
 I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a non-profit organization, aiming to teach foundational coding and data science skills to researchers worldwide_). I'm aslo an ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerize the numbers of workshops we organized and the numbers of people that we trained.
 
+# 2020
+- Oct 23: **Biogeography & Macroecology Course** (Week 43)  
+
+{{< figure library="1" src="BioMak_course_Miao2.jpg" title="" >}} 
+{{< figure library="1" src="teaching2.jpg" title="Lecture titled as '_Building, Using, and Tending The Tree of Life_' on Friday, Oct 23, 2020" >}}
+
+
 # 2018
 - Oct 4 - Oct 4: [One Day R Workshop](https://uf-carpentry.github.io/2018-10-04-ufii-one-day/)
 - Aug 17 - Aug 17: [Research Bazaar](https://uf-carpentry.github.io/resbaz2018/gainesville/)
