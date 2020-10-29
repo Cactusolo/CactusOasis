@@ -27,13 +27,16 @@ _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 
 - 2009 ~ 2014, PhD in Botany, Institute of Botany, Chinese Academy of Sciences
 - 2006 ~ 2009, Master of Botany, Institute of Botany, Chinese Academy of Sciences
-- 2002 ~ 2006, Bachelor of Environmental Science, College of Resources and Environment, Beijing Forestry University
+- 2002 ~ 2006, Bachelor of Environmental Science, College of Resources and Environment, Beijing Forestry University  
+
+- 2012.10 ~ 2013.1, Visiting scholar in Florida Museum of Natural History, University of Florida
+- 2020.2 ~ 2020.8, Visiting scholar in Department of Ecology and Evolutionary Biology, University of Michigan
 
 ### Positions
 
 - **Postdoctoral Research Fellow  (2019.10 ~ present)**  
     [Department of Bioscience, Aarhus University](http://bio.au.dk/en/)  
-    Advisor: Dr. [Wolf L. Eiserhardt](https://peb-group.net/who-are-we)  
+    Advisor: Dr. [Wolf L. Eiserhardt](https://peb-group.net/who-are-we)
     
 - **Postdoctoral Research Fellow  (2016 ~ 2019.8)**  
     [Florida Museum of Natural History, University of Florida](https://www.floridamuseum.ufl.edu/)  
@@ -51,20 +54,22 @@ _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 ### Research Interests
 
 A phylogenetic tree is a pivotal framework for solving fundamental issues in biology.
-My long-term research goal is to use a robust phylogeny to elucidate patterns of evolutionary radiations in angiosperms and to address the causes of plant
-diversification using the tools of comparative biology.
+My long-term research goal is to use a robust phylogeny to elucidate patterns of evolutionary radiations in angiosperms and to address the causes of plant diversification using the tools of comparative biology.
 
 
 ### Research Skills
 
 + **Taxonomic skills**:
     
-    Able to identify most seed plants at genera level or at least family level and expert in _Elaeagnus_ (Elaeagnaceae), familiar with International Code of Botanical Nomenclature and mastering the process of compressing specimens
+    - Able to identify most seed plants at genera level or at least family level and taxonomic expert in _Elaeagnus_ (Elaeagnaceae)
+    - Spending three years in [Chinese National Herbarium (PE)](http://pe.ibcas.ac.cn/en/) with curatorial experiences
+    - Familiar with International Code of Botanical Nomenclature
+    - Mastering the workflow of field collection and process of compressing and drying specimens
     
 + **Molecular biology skills**:
     
-    DNA extraction, clone, PCR, sequencing, genome assembling, and genome size measurement  
-    Experienced in [Target Enrichment data analyses](https://github.com/Cactusolo/IESHTSTE) using [aTRAM](https://github.com/juliema/aTRAM) and [HybPiper](https://github.com/mossmatters/HybPiper), and gene tree congruence [visulizaion](https://www.sunmiao.name/post/phypartspiecharts/) using [Phyparts](https://github.com/juliema/aTRAM) and [Pycharts](https://github.com/mossmatters/MJPythonNotebooks/blob/master/PhyParts_PieCharts.ipynb).
+    - DNA extraction, clone, PCR, sequencing, genome assembling, and genome size measurement
+    - Experienced in [Target Enrichment data analyses](https://github.com/Cactusolo/IESHTSTE) using [aTRAM](https://github.com/juliema/aTRAM) and [HybPiper](https://github.com/mossmatters/HybPiper), and gene tree congruence [visulizaion](https://www.sunmiao.name/post/phypartspiecharts/) using [Phyparts](https://github.com/juliema/aTRAM) and [Pycharts](https://github.com/mossmatters/MJPythonNotebooks/blob/master/PhyParts_PieCharts.ipynb).
     
 + **Bioinformatical skills**:
 
@@ -87,7 +92,7 @@ diversification using the tools of comparative biology.
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 11;  **_544_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 11;  **_550_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -184,6 +189,7 @@ diversification using the tools of comparative biology.
 
 - **2020**  
 
+    + Gave a lecture titled as ‘_Building, Using, and Tending The Tree of Life_’ for Biogeography & Macroecology Course at Department of Biology, Aarhus University
     + ["the State of the World's Plants and Fungi Virtual Symposium"](https://www.kew.org/science/engage/get-involved/conferences/state-of-the-worlds-plants-and-fungi-symposium#:~:text=Join%20international%20experts%20on%2013,event%20has%20now%20taken%20place.) organized by [the Royal Botanic Gardens, Kew](https://www.kew.org/)
     + ["A short introduction to the aims and status of modern C++"](https://events.au.dk/bjarnestoustrup/conference) Talked by [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup) at Department of Computer Science, Aarhus University
     + Podcast Interview by [In Defense Of Plants](https://www.indefenseofplants.com/) --- [The Rosid Radiation](https://www.indefenseofplants.com/podcast/2020/9/13/ep-282-the-rosid-radiation)
@@ -296,5 +302,6 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-10-23_  
+_Last update: 2020-10-29_  
+
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
