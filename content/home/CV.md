@@ -92,12 +92,12 @@ My long-term research goal is to use a robust phylogeny to elucidate patterns of
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 11;  **_550_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 11;  **_567_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
-
+1. Lin H-Y\*, **Sun M**\*, et al. (In prep.) Community assembly processes and diversification rate contribute to the phylogenetic diversity anomaly between eastern Asia and eastern North America. 
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
 1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 47: 2286–2291. doi: 10.1111/jbi.13947.
@@ -189,6 +189,9 @@ My long-term research goal is to use a robust phylogeny to elucidate patterns of
 
 - **2020**  
 
+    + UFII AI Advances and Applications Virtual Seminar Series: [AI for the Environment: Progress, Prospects and Pitfalls](https://informatics.research.ufl.edu/seminars-and-events/past-seminars/ufii-seminars.html) given by by Drs. Robert Guralnick and Brian Stucky
+    + Seminar from Dr. Pam Soltis titled as "Natural History Collections: Infrastructure and Resources for 21st Century Science"
+    + CONVOLVULACEAE NETWORK Series: Key challenges and questions in reconstructing [the ancestral flower of Angiosperms](https://www.nature.com/articles/ncomms16047) by Dr. Hervé Sauquet
     + Gave a lecture titled as ‘_Building, Using, and Tending The Tree of Life_’ for Biogeography & Macroecology Course at Department of Biology, Aarhus University
     + ["the State of the World's Plants and Fungi Virtual Symposium"](https://www.kew.org/science/engage/get-involved/conferences/state-of-the-worlds-plants-and-fungi-symposium#:~:text=Join%20international%20experts%20on%2013,event%20has%20now%20taken%20place.) organized by [the Royal Botanic Gardens, Kew](https://www.kew.org/)
     + ["A short introduction to the aims and status of modern C++"](https://events.au.dk/bjarnestoustrup/conference) Talked by [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup) at Department of Computer Science, Aarhus University
@@ -302,6 +305,6 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-10-29_  
+_Last update: 2020-11-20_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
