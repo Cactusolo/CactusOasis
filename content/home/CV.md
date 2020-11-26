@@ -92,7 +92,7 @@ My long-term research goal is to use a robust phylogeny to elucidate patterns of
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 11;  **_567_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 11;  **_574_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
