@@ -1,0 +1,107 @@
+---
+title: Check The Performance of A Rooting Method Using Minimal Ancestor Deviation (MAD)
+author: Miao Sun
+date: '2020-11-26'
+slug: check-the-performance-of-a-rooting-method-using-minimal-ancestor-deviation-mad
+categories: []
+tags: []
+image:
+  caption: ''
+  focal_point: ''
+---
+
+
+
+<div id="simple-demonstration-how-mad-works" class="section level2">
+<h2>Simple demonstration how mad works</h2>
+<p>MAD: root the tree by Minimal Ancestor Deviation (MAD) See <a href="https://www.nature.com/articles/s41559-017-0193">Tria et al. (2017)</a></p>
+<pre class="r"><code>rm(list=ls())
+pathV &lt;- &quot;/Users/cactus/Desktop/WCSP_clade_size/Backbone/BackboneV2/&quot;
+library(&quot;ape&quot;)
+suppressWarnings(suppressMessages(library(&quot;phytools&quot;)))
+source(paste0(pathV,&quot;mad.R&quot;, sep=&quot;&quot;)) #source &quot;mad&quot; function</code></pre>
+</div>
+<div id="plot-original-tree" class="section level2">
+<h2>Plot original tree</h2>
+<pre class="r"><code>tree1 &lt;- ladderize(read.tree(paste0(pathV,&quot;Backbone351order_species_order.tre&quot;, sep=&quot;&quot;)))
+is.rooted(tree1)</code></pre>
+<pre><code>## [1] TRUE</code></pre>
+<pre class="r"><code>plot.phylo(tree1, cex=0.3, tip.color=ifelse(tree1$tip.label %in% &quot;Outgroup&quot;, &quot;red&quot;, &quot;black&quot;))</code></pre>
+<p><img src="/post/2020-11-26-check-the-performance-of-a-rooting-method-using-minimal-ancestor-deviation-mad.en_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+</div>
+<div id="plot-unroot-tree" class="section level2">
+<h2>Plot unroot tree</h2>
+<pre class="r"><code>tree2 &lt;- ladderize((unroot.phylo(tree1)))
+is.rooted(tree2)</code></pre>
+<pre><code>## [1] FALSE</code></pre>
+<pre class="r"><code>plot.phylo(tree2, cex=0.3, tip.color=ifelse(tree2$tip.label %in% &quot;Outgroup&quot;, &quot;red&quot;, &quot;black&quot;))</code></pre>
+<p><img src="/post/2020-11-26-check-the-performance-of-a-rooting-method-using-minimal-ancestor-deviation-mad.en_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+</div>
+<div id="plot-the-same-tree-rooted-with-mad" class="section level2">
+<h2>Plot the same tree rooted with MAD</h2>
+<pre class="r"><code>tree3 &lt;- mad(tree2)
+tree3 &lt;- ladderize(read.tree(text = tree3))
+is.rooted(tree3)</code></pre>
+<pre><code>## [1] TRUE</code></pre>
+<pre class="r"><code>plot.phylo(tree3, cex=0.3, tip.color=ifelse(tree3$tip.label %in% &quot;Outgroup&quot;, &quot;red&quot;, &quot;black&quot;))</code></pre>
+<p><img src="/post/2020-11-26-check-the-performance-of-a-rooting-method-using-minimal-ancestor-deviation-mad.en_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+</div>
+<div id="group-picture-----cheese" class="section level2">
+<h2>Group picture --- cheese</h2>
+<pre class="r"><code>par(mfrow=c(1,3))
+plot.phylo(tree1, cex=0.3, tip.color=ifelse(tree1$tip.label %in% &quot;Outgroup&quot;, &quot;red&quot;, &quot;black&quot;), main=&quot;original&quot;)
+plot.phylo(tree2, cex=0.3, tip.color=ifelse(tree2$tip.label %in% &quot;Outgroup&quot;, &quot;red&quot;, &quot;black&quot;), main=&quot;unroot&quot;)
+plot.phylo(tree3, cex=0.3, tip.color=ifelse(tree3$tip.label %in% &quot;Outgroup&quot;, &quot;red&quot;, &quot;black&quot;), main=&quot;mad.root&quot;)</code></pre>
+<p><img src="/post/2020-11-26-check-the-performance-of-a-rooting-method-using-minimal-ancestor-deviation-mad.en_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<div id="well-visually-that-straightfoward-as-we-usually-see-outgroup-but-i-think-it-did-a-good-job-in-terms-of-minimal-ancestor-deviation-as-rooting-criteria." class="section level5">
+<h5>Well, visually that straightfoward as we usually see <strong>Outgroup</strong>, but I think it did a good job in terms of <strong>minimal ancestor deviation</strong> as rooting criteria.</h5>
+</div>
+</div>
+<div id="another-example" class="section level2">
+<h2>Another example</h2>
+<pre class="r"><code># R package &quot;ape&quot; root
+Tg6689 &lt;- read.tree(paste0(pathV,&quot;./g6689.raxml.rba.raxml.supportFBP&quot;, sep=&quot;&quot;))
+is.rooted(Tg6689)</code></pre>
+<pre><code>## [1] TRUE</code></pre>
+<pre class="r"><code>if(is.rooted(Tg6689)){
+  Tg6689a &lt;- unroot(Tg6689)
+  is.rooted(Tg6689a)
+}</code></pre>
+<pre><code>## [1] FALSE</code></pre>
+<pre class="r"><code>Outgroup &lt;- c(&quot;Isoetes_tegetiformans_1kp&quot;, &quot;Selaginella_apoda_1kp&quot;)
+
+Tg6689b &lt;- root(Tg6689a, Outgroup, resolve.root = TRUE)
+
+is.rooted(Tg6689b)</code></pre>
+<pre><code>## [1] TRUE</code></pre>
+<pre class="r"><code># unroot
+Tg6689.u &lt;- unroot(Tg6689)
+
+is.rooted(Tg6689.u)</code></pre>
+<pre><code>## [1] FALSE</code></pre>
+<pre class="r"><code># MAD root
+tmp &lt;- mad(Tg6689.u)
+
+Tg6689.mad &lt;-  ladderize(read.tree(text = tmp))
+
+is.rooted(Tg6689.mad)</code></pre>
+<pre><code>## [1] TRUE</code></pre>
+<pre class="r"><code># reroot by phyx `pxrr`
+
+Tg6689.phyx &lt;- read.tree(paste0(pathV,&quot;./g6689.supportFBP.rt.tre&quot;, sep=&quot;&quot;))
+
+is.rooted(Tg6689.phyx)</code></pre>
+<pre><code>## [1] TRUE</code></pre>
+<pre class="r"><code># Plot all together
+par(mfrow=c(1,4))
+plot.phylo(Tg6689b, cex=0.3, tip.color=ifelse(Tg6689b$tip.label %in% Outgroup, &quot;red&quot;, &quot;black&quot;), main=&quot;root&quot;)
+plot.phylo(Tg6689.u, cex=0.3, tip.color=ifelse(Tg6689.u$tip.label %in% Outgroup, &quot;red&quot;, &quot;black&quot;), main=&quot;unroot&quot;)
+plot.phylo(Tg6689.mad, cex=0.3, tip.color=ifelse(Tg6689.mad$tip.label %in% Outgroup, &quot;red&quot;, &quot;black&quot;), main=&quot;mad.root&quot;)
+plot.phylo(Tg6689.phyx, cex=0.3, tip.color=ifelse(Tg6689.phyx$tip.label %in% Outgroup, &quot;red&quot;, &quot;black&quot;), main=&quot;phyx.root&quot;)</code></pre>
+<p><img src="/post/2020-11-26-check-the-performance-of-a-rooting-method-using-minimal-ancestor-deviation-mad.en_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
+<div id="discussion" class="section level4">
+<h4>Discussion</h4>
+<p>So apparently, phyx is better. Rooting via MAD may not be always straightfoward as other methods with a clear outgroup id. Moreover, the same outgroup, the branch length may be different in different gene trees. Since different genes have different evolution rates, then branch length may vary from gene to gene, hence likewise the ancestor deviation also vary.</p>
+<p>Overall, I still think rooting via mad is usefull under certain circumstances. For instance, if you have a bunch gene trees have 0 outgroup sampled, and some downstream analyses required rooted trees, then MAD did provide a decent root. Other common methods require to provide an outgroup. For example, <a href="https://github.com/FePhyFoFum/phyx">phyx</a> function <code>pxrr</code> requires a ranked (<code>-r</code>) comma-seperated outgroups by <code>-g</code> (see <a href="https://github.com/FePhyFoFum/phyx/wiki/Program-list">here</a>); but it did not provide a solution for the scenarios that if no outgroup sampled at all for some genes. Some other package (e.g., <a href="https://github.com/tjunier/newick_utils/wiki">Newick Utils</a>) will use the longest branch as root, but long branch could be misled as well.</p>
+</div>
+</div>
