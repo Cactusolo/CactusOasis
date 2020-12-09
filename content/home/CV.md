@@ -92,12 +92,14 @@ My long-term research goal is to use a robust phylogeny to elucidate patterns of
 
 ### Publications
 
-\*equally contributing author; 27 publications, h-index 11;  **_574_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 27 publications, h-index 12;  **_601_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (In prep.) Phylogeny and biogeography of the genus _Pinguicula_ L. (Lentibulariaceae) based on nuclear ribosomal DNA and chloroplast DNA.
 1. Lin H-Y\*, **Sun M**\*, et al. (In prep.) Community assembly processes and diversification rate contribute to the phylogenetic diversity anomaly between eastern Asia and eastern North America. 
+
+1. Lin H-Y\*, **Sun M**\*, et al. (In prep.) Community assembly processes and diversification rate contribute to the phylogenetic diversity anomaly between eastern Asia and eastern North America.
 
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
 1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 47: 2286–2291. doi: 10.1111/jbi.13947.
@@ -305,6 +307,6 @@ Email: zhiduan@ibcas.ac.cn
 Phone:  +86 010-62836434  
    
   
-_Last update: 2020-11-20_  
+_Last update: 2020-12-09_  
 
 {{% staticref "files/MiaoSun_CV_EN.pdf" %}}CV-en{{% /staticref %}} {{% staticref "files/MiaoSun_CV_CN.pdf" %}}CV-cn{{% /staticref %}}
