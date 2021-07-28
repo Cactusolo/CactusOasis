@@ -1,0 +1,11 @@
+.RData
+.Ruserdata
+*.Rproj
+/public/
+.Rproj.user/
+.Rproj.user
+.Rhistory
+*.sh
+/resources/
+.DS_Store
+Thumbs.db
