@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teaching'
+title: 'Teaching & Lectures'
 subtitle:
 active: true
 # Date format
@@ -27,9 +27,13 @@ I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a
 # 2020
 - Oct 23: **Biogeography & Macroecology Course** (Week 43)  
 
-{{< figure src="BioMak_course_Miao2.jpg" theme="dark" >}} 
-{{< figure src="teaching2.jpg" title="Lecture titled as '_Building, Using, and Tending The Tree of Life_' on Friday, Oct 23, 2020" theme="dark" >}}
+{{< figure src="BioMak_course_Miao2.jpg" >}} 
+{{< figure src="teaching2.jpg" title="Lecture titled as '_Building, Using, and Tending The Tree of Life_' on Friday, Oct 23, 2020" >}}
 
+# 2019
+- May 28-31: **NSF-RCN Meeting: Cross-Scale Processes Impacting Biodiversity**
+{{< figure src="Miao_talk.jpg" >}} 
+{{< figure src="group_photo.jpg" >}} 
 
 # 2018
 - Oct 4 - Oct 4: [One Day R Workshop](https://uf-carpentry.github.io/2018-10-04-ufii-one-day/)
@@ -38,7 +42,7 @@ I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a
 - Aug 15 - Aug 16: [Software Carpentry (Python)](https://punama.github.io/2018-08-15-SWC/)
 - Jan 22 - Jan 23: [Software Carpentry](https://uf-carpentry.github.io/2018-01-22-UFII/)
 - Jan 18 - Mar 1: [Multi-Week Data Carpentry](https://ufrmeetup.github.io/2018-01-18-UF-R/)
-{{< figure src="teaching.jpg" title="[Instructor]( https://twitter.com/UFCPET/status/1019341808688664576) for Precollegiate Education and Training (high-school teachers) on July 16 2018" theme="dark" >}}
+{{< figure src="teaching.jpg" title="[Instructor]( https://twitter.com/UFCPET/status/1019341808688664576) for Precollegiate Education and Training (high-school teachers) on July 16 2018" >}}
 
 # 2017
 - Aug 18 - Aug 18: [Day of R](https://uf-carpentry.github.io/2017-08-18-Marston-RDay/)
@@ -46,4 +50,4 @@ I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a
 - May 25 - May 26: [Software Carpentry](https://weecology.github.io/2017-05-25-UF/)
 - Feb 6 - Feb 7: [Software Carpentry](https://acislab.github.io/2017-02-06-UF-Informatics-Institute/)
 
-{{< figure src="meber.jpg" title="" theme="dark" >}}
+{{< figure src="meber.jpg" title="" >}}
