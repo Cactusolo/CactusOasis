@@ -7,7 +7,7 @@ widget: custom
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Teaching & Lectures'

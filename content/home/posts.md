@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 90
 
 title: Recent Posts
 subtitle:
@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Filter on criteria
   filters:
     author: ""

@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Aarhus University (Denmark)
   url: https://international.au.dk/
-role: Postdoc Associate
+role: Postdoctoral Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,7 +47,7 @@ social:
 superuser: true
 title: Miao Sun | 孙苗
 ---
-I'm a postdoctoral fellow in [Plant Evolution & Biodiversity Group](https://peb-group.net/who-are-we) leading by Dr. [Wolf L. Eiserhardt](https://scholar.google.com/citations?user=X419fPAAAAAJ&hl=de) at [Aarhus University](https://bios.au.dk/) in Denmark. 
+I'm a postdoctoral researcher in [Plant Evolution & Biodiversity Group](https://peb-group.net/who-are-we) leading by Dr. [Wolf L. Eiserhardt](https://scholar.google.com/citations?user=X419fPAAAAAJ&hl=de) at [Aarhus University](https://bios.au.dk/) in Denmark. 
 
 Former [Soltis Lab](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab/people/principal-investigators/) member. 🐊 _Once gator, always gator!_ 🐊
 

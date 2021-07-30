@@ -6,22 +6,22 @@
 main:
   - name: Home
     url: '#about'
-    weight: 50
+    weight: 10
   - name: Projects
     url: '#projects'
-    weight: 80
+    weight: 20
   - name: Publications
     url: '#featured'
-    weight: 85
+    weight: 30
   - name: Posts
     url: '#posts'
-    weight: 100
+    weight: 40
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
   - name: Contact
     url: '#contact'
-    weight: 110
-  - name: CV|简历
-    url: '#CV'
-    weight: 120
+    weight: 50
+  # - name: CV|简历
+  #   url: '#CV'
+  #   weight: 120

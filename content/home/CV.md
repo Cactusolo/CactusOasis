@@ -6,6 +6,7 @@ output:
     df_print: paged
 slug: en/vitae
 disable_comments: yes
+active: false
 ---
 
 # Miao Sun
