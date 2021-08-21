@@ -93,7 +93,7 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 
 ### Publications
 
-\*equally contributing author; 30 publications, contributed to 5  different flora works), h-index 12;  **_784_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 30 publications, contributed to 5  different flora works), h-index 12;  **_808_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
@@ -326,4 +326,4 @@ Chinese Academy of Sciences
 Email: zhiduan@ibcas.ac.cn    
 Phone:  +86 010-62836434  
    
-_Last update: 2020-07-21_
+_Last update: 2020-08-21_
