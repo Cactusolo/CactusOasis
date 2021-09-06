@@ -24,6 +24,11 @@ design:
 
 I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a non-profit organization, aiming to teach foundational coding and data science skills to researchers worldwide_). I'm aslo an ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerize the numbers of workshops we organized and the numbers of people that we trained.
 
+# 2021
+- Sept 6: **[Séminaire AMAP](https://amap.cirad.fr/fr/agenda.php): Explore Biodiversity Using Big Data and Tree of Life**
+{{< figure src="20210906_Miao-SUN_SeminaireAMAP.jpg" >}} 
+{{< figure src="JeudiAMAP_Miao_Talk.jpeg" title="There are also 25 people attended via Zoom" >}}
+
 # 2020
 - Oct 23: **Biogeography & Macroecology Course** (Week 43)  
 
