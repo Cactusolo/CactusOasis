@@ -27,7 +27,7 @@ I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a
 # 2021
 - Sept 6: **[Séminaire AMAP](https://amap.cirad.fr/fr/agenda.php): Explore Biodiversity Using Big Data and Tree of Life**
 {{< figure src="20210906_Miao-SUN_SeminaireAMAP.jpg" >}} 
-{{< figure src="JeudiAMAP_Miao_Talk.jpeg" title="There are also 25 people attended via Zoom" >}}
+{{< figure src="JeudiAMAP_Miao_Talk.jpeg" width="595px" title="There are also 25 people attended via Zoom" >}}
 
 # 2020
 - Oct 23: **Biogeography & Macroecology Course** (Week 43)  
