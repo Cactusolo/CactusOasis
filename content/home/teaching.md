@@ -25,7 +25,13 @@ design:
 I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a non-profit organization, aiming to teach foundational coding and data science skills to researchers worldwide_). I'm aslo an ex-board member of [UF Carpentries Club](https://www.uf-carpentries.org/). Here are some [workshop stats](https://www.uf-carpentries.org/stats/) that summerize the numbers of workshops we organized and the numbers of people that we trained.
 
 # 2021
-- Sept 6: **[Séminaire AMAP](https://amap.cirad.fr/fr/agenda.php): Explore Biodiversity Using Big Data and Tree of Life**
+
+- Dec. 2: **Giving a research talk in [Wuhan Botanical Garden, CAS](http://english.wbg.cas.cn/ns/UpcomingEvents/202111/t20211129_293212.html): Explore the Angiosperm diversity using the Tree of Life and biological big data**    
+{{< figure src="EastLakeForum.jpeg" >}} 
+{{< figure src="EastLakeForumTalk.jpeg" title="It's big conference room! Thanks for [Director Wang](http://sourcedb.wbg.cas.cn/zw/rck/200907/t20090720_2708437.html) and Dr. Hu, Dr. Xu, Dr. Zhang for help and organizing this event!" >}}
+{{< figure src="WHBG.jpeg" title="I like this place!" >}}  
+
+- Sept. 6: **[Séminaire AMAP](https://amap.cirad.fr/fr/agenda.php): Explore Biodiversity Using Big Data and Tree of Life**
 {{< figure src="20210906_Miao-SUN_SeminaireAMAP.jpg" >}} 
 {{< figure src="JeudiAMAP_Miao_Talk.jpeg" width="595px" title="There are also 25 people attended via Zoom" >}}
 
