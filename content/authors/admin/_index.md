@@ -64,4 +64,4 @@ My research interests are:
 __When NOT struggling for existence, I occasionally do some coding!!__ 
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/MiaoSun_CV_en.pdf" "newtab" >}}my resumé {{< /staticref >}}
-  下载 {{< staticref "uploads/孙苗简历.pdf" "newtab" >}}中文简历{{< /staticref >}}.
+  下载 {{< staticref "uploads/MiaoSun_CV_CN.pdf" "newtab" >}}中文简历{{< /staticref >}}.

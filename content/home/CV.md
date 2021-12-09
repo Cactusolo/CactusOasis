@@ -2,11 +2,11 @@
 title: "Curriculum Vitae"
 output:
   pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
 slug: en/vitae
 disable_comments: yes
-active: false
 ---
 
 # Miao Sun
@@ -84,7 +84,8 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 
 ### Honors & Awards
 
-- 2017: Certified Instructor of Software Carpentry, and qualified to teach Software Carpentry’s core curriculum. 
+- 2021: NVIDIA DLI Certificate – Fundamentals of Deep Learning
+- 2017: Certified Instructor of Software Carpentry, and qualified to teach Software Carpentry core curriculum. 
 - 2006 ~ 2014: First-class Scholarship for Graduate Student of Chinese Academy of Sciences
 - 2008: Honored as a science popularization volunteer
 - 2004 ~ 2005: Second Scholarships for Excellent Academic Score BFU and National Grants.
@@ -93,16 +94,17 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 
 ### Publications
 
-\*equally contributing author; 30 publications, contributed to 5  different flora works), h-index 12;  **_808_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 30 publications, contributed to 5 different flora works), h-index 14;  **_878_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. Zhao L-N, Liu Y, Ye J-F, Bing Liu B, Hua H-H, Lu LM, Chang J, **Sun M**, Chen ZD. (In prep.) Flowering plants on the Third Pole facing non-random extinction risk.
 1. Lin H-Y\*, **Sun M**\*, et al. (2021) Phylogenetic diversity patterns in eastern Asia–eastern North America disjunct plants: The roles of diversification rate, climatic environments, and community assembly processes. _Journal of Biogeography_ (submitted).
+1. The Darwinian shortfall in plants: phylogenetic knowledge is driven by range size. _Ecography_ (Revision).
 1. Carruthers T, Baker WJ, Smith SA, **_Sun M_**, de Vos JM, Wolf L. Eiserhardt WL. (2021) The implications of topological incongruence between gene trees and the species tree for divergence time estimation. _Systematic Biology_ (Revision).
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
 
-1. Liu BB, Ma ZY, Ren C, Hodel R,  **_Sun M_** et al. (2021) Capturing single-copy nuclear genes, organellar genomes, and nuclear ribosomal DNA from deep genome skimming data for plant phylogenetics: A case study in Vitaceae. _Journal of Systematics and Evolution_ (Accepted).
+1. Liu BB, Ma ZY, Ren C, Hodel R,  **_Sun M_** et al. (2021) Capturing single-copy nuclear genes, organellar genomes, and nuclear ribosomal DNA from deep genome skimming data for plant phylogenetics: A case study in Vitaceae. _Journal of Systematics and Evolution_ 59(5): 1124-1138. doi: 10.1111/jse.12806.
 1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (2021) Biogeographical patterns and speciation of the genus Pinguicula (Lentibulariaceae) inferred by phylogenetic analyses. _PLOS ONE_ 16(6): e0252581. doi: 10.1371/journal.pone.0252581.
 1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 47: 2286–2291. doi: 10.1111/jbi.13947.
 1. **Sun M\***, Folk FA\*, Gitzendanner MA, Soltis PS, Chen ZD, Soltis DE, Guralnick RP. (2020). Recent, accelerated diversification in rosids occurred outside the tropics. _Nature Communications_ 11: 3333. doi: 10.1038/s41467-020-17116-5.
@@ -205,6 +207,7 @@ Católica de la Santísima Concepción, USA / Chile)
 
 - **2021**  
 
+    + [Nvidia DLI Workshop 2021: Fundamentals of Deep Learning](https://www.rc.ufl.edu/nvidia-dli-workshop-fundamentals-of-deep-learning/) and earned a [certificate](https://courses.nvidia.com/certificates/0d609f85a09d48cda50dc2de8fb71e12) via test and course accomplishment. 
     + [Early Career Scientists Symposium | Natural History Collections: Drivers of Innovation](https://lsa.umich.edu/rmc/news-events/all-events.detail.html/81353-20887833.html) --- Sizing up new uses of natural history collections for ecogeography and global change biology given by by Dr. Robert Guralnick
     + [XSEDE HPC Workshop: BIG DATA and Machine Learning](https://www.psc.edu/resources/training/xsede-hpc-workshop-big-data-february-2-3-2021/)
     + [Webinar: Forward-Thinking Discussion on Biological Collections](https://www.aibs.org/news/2020/201221-collections-webinar.html)  
@@ -276,7 +279,7 @@ Instructed by [Dr. Nancy DeJoy](http://wrac.msu.edu/people/faculty/nancy-c-dejoy
 
 ### Service
 
-- Peer reviews for: _Botany_, _Evolutionary Bioinformatics_, _Global Ecology and Biogeography_, _International Journal of Tropical Biology and Conservation_, _Journal of Agriculture and Rural Development in the Tropics and Subtropics_, _Journal of Systematics and Evolution_, _Molecular Phylogenetics and Evolution_, _Scientific Reports_, _South African Journal of Botany_, _Taxon_, _PeerJ_, _Phytotaxa_, _Plants_, and _Plant Physiology and Biochemistry_.  
+- Peer reviews for: _Botany_, _Evolutionary Bioinformatics_, _Global Ecology and Biogeography_, _International Journal of Tropical Biology and Conservation_, _Journal of Agriculture and Rural Development in the Tropics and Subtropics_, _Journal of Systematics and Evolution_, _Molecular Phylogenetics and Evolution_, _Scientific Reports_, _South African Journal of Botany_, _Taxon_, _PeerJ_, _Phytotaxa_, _Plants_, _Plant Physiology and Biochemistry_, and _PLOS ONE_.  
 - Certified Instructor of Software Carpentry (The Carpentries; taught classes of >400 students)
 - Board member of UF Carpentries Club (a workshop series to teach informatics skills)
 - Judge for Graduate Student Research Day at University of Florida
@@ -305,19 +308,12 @@ Email: dsoltis@ufl.edu
 Phone:  +1 (352) 273-1963  
 
 **Wolf Eiserhardt** (Postdoc advisor)  
-Department of Bioscience  
+Department of Biology  
 Ny Munkegade 116  
 building 1535, 225  
 8000 Aarhus C, Denmark  
-Email: wolf.eiserhardt@bios.au.dk  
+Email: wolf.eiserhardt@bio.au.dk  
 Phone: +45 87156136  
-  
-**Stephen A. Smith** (Collaborator)  
-Ecology and Evolutionary Biology  
-University of Michigan  
-Ann Arbor, MI 48109, USA  
-Email: eebsmith@umich.edu  
-Phone: +1 (734) 764-7923  
 
 **Zhiduan Chen** (PhD advisor)  
 State Key Laboratory of Systematic and Evolutionary Botany  
@@ -325,5 +321,19 @@ Institute of Botany
 Chinese Academy of Sciences  
 Email: zhiduan@ibcas.ac.cn    
 Phone:  +86 010-62836434  
+
+**Stephen A. Smith** (Collaborator)  
+Ecology and Evolutionary Biology  
+University of Michigan  
+Ann Arbor, MI 48109, USA  
+Email: eebsmith@umich.edu  
+Phone: +1 (734) 764-7923  
+
+**Hong Ma** (Collaborator)  
+Department of Biology  
+The Pennsylvania State University  
+510D Mueller Laboratory   
+University Park, PA 16802, USA  
+Email: hxm16@psu.edu  
    
-_Last update: 2020-08-21_
+_Last update: 2021-12-07_

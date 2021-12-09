@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: 'Miao Sun | 孙苗' # Website name
 baseurl: 'https://www.sunmiao.name/' # Website URL
-copyright: '© {2021} Miao Sun' # Footer text, e.g. '© {year} Me'
+copyright: '© {2018-2021} Miao Sun' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
