@@ -26,8 +26,7 @@ I am **Certified Instructor** of [The Carpentries](https://carpentries.org/) (_a
 
 # 2021
 
-- Dec. 2: **Giving a research talk in [Wuhan Botanical Garden, CAS](http://english.wbg.cas.cn/ns/UpcomingEvents/202111/t20211129_293212.html): Explore the Angiosperm diversity using the Tree of Life and biological big data**    
-{{< figure src="EastLakeForum.jpeg" >}} 
+- Dec. 2: **Giving a research talk in [Wuhan Botanical Garden, CAS](http://english.wbg.cas.cn/ns/UpcomingEvents/202111/t20211129_293212.html): [Explore the Angiosperm diversity using the Tree of Life and biological big data](http://www.whiob.ac.cn/xwdt/zxdt/202112/t20211208_6290400.html)**    
 {{< figure src="EastLakeForumTalk.jpeg" title="It's big conference room! Thanks for [Director Wang](http://sourcedb.wbg.cas.cn/zw/rck/200907/t20090720_2708437.html) and Dr. Hu, Dr. Xu, Dr. Zhang for help and organizing this event!" >}}
 {{< figure src="WHBG.jpeg" title="I like this place!" >}}  
 
