@@ -28,7 +28,7 @@ experience:
     company_url: 'http://bios.au.dk/en'
     location: Aarhus, Denmark
     date_start: '2019-10-01'
-    date_end: ''
+    date_end: '2021-09-30'
     description: |2-
         Responsibilities include:
         
