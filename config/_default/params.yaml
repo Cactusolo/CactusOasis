@@ -29,19 +29,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: cactusresponsibleATgmail.com
-phone: +45 9one 97 63 1o
+email: miaosun@mail.hzau.edu.cn
+phone: +86 181642o05o3
 address:
   street: Ny Munkegade 116
-  city: Aarhus
-  region: C
-  postcode: '8000'
-  country: Denmark
-  country_code: DK
+  city: Wuhan
+  region: Hubei
+  postcode: '430070'
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '56.1681384'
-  longitude: '10.2030118'
-directions: Building 1535, Room 227
+  latitude: '30.5153287'
+  longitude: '114.3284758'
+directions: Office 326 in Southern Horticulture Building
 office_hours:
   # - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'

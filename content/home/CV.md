@@ -13,12 +13,12 @@ disable_comments: yes
 
 ### Contact Information
 
-_Plant Evolution and Biodiversity (PEB) Group_  
-_Department of Biology – Ecoinformatics and Biodiversity, Aarhus University_  
-_Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
+_College of Horticulture and Forestry Sciences_  
+_Huazhong Agricultural University_  
+_No.1 Shizishan Street, Hongshan District, Wuhan, Hubei Province, China_
 
 
-**Email:** cactusresponsible@gmail.com; miaosun@bio.au.dk
+**Email:** miaosun@mail.hzau.edu.cn
 
 **Homepage:** <https://www.sunmiao.name>
 
@@ -36,8 +36,11 @@ _Ny Munkegade 116, Building 1535, Room 227, 8000 Aarhus C, Denmark_
 
 ### Positions
 
-- **Postdoctoral Research Fellow  (2019.10 ~ present)**  
-    [Department of Bioscience, Aarhus University](http://bio.au.dk/en/)  
+- **Professor  (2022.01 ~ present)**  
+    [College of Horticulture and Forestry Sciences, Huazhong Agricultural University](http://chfs.hzau.edu.cn/en/HOME.htm)
+    
+- **Postdoctoral Research Fellow  (2019.10 ~ 2021.09)**  
+    [Department of Bioscience, Aarhus University](http://bio.au.dk/en/) 
     Advisor: Dr. [Wolf L. Eiserhardt](https://peb-group.net/who-are-we)
     
 - **Postdoctoral Research Fellow  (2016 ~ 2019.8)**  
@@ -94,16 +97,18 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 
 ### Publications
 
-\*equally contributing author; 30 publications, contributed to 5 different flora works), h-index 14;  **_878_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
+\*equally contributing author; 33 publications, contributed to 5 different flora works), h-index 14;  **_949_** total citations according to [Google Scholar](https://scholar.google.com.hk/citations?user=E5fIHlgAAAAJ&hl=zh-CN)
 
 #### Papers:
 
 1. Zhao L-N, Liu Y, Ye J-F, Bing Liu B, Hua H-H, Lu LM, Chang J, **Sun M**, Chen ZD. (In prep.) Flowering plants on the Third Pole facing non-random extinction risk.
 1. Lin H-Y\*, **Sun M**\*, et al. (2021) Phylogenetic diversity patterns in eastern Asia–eastern North America disjunct plants: The roles of diversification rate, climatic environments, and community assembly processes. _Journal of Biogeography_ (submitted).
 1. The Darwinian shortfall in plants: phylogenetic knowledge is driven by range size. _Ecography_ (Revision).
-1. Carruthers T, Baker WJ, Smith SA, **_Sun M_**, de Vos JM, Wolf L. Eiserhardt WL. (2021) The implications of topological incongruence between gene trees and the species tree for divergence time estimation. _Systematic Biology_ (Revision).
+
 1. **Sun M**, Folk FA, Gitzendanner MA, Smith SA, Germain-Aubrey C, Guralnick RP, Soltis PS, Chen ZD, Soltis DE. Exploring the phylogeny and diversification of rosids with a five-locus supermatrix. _bioRxiv_ 694950. doi: 10.1101/694950.
 
+1. Yu H, Sui X, **_Sun M_**, Yin X, Deane DC. (2022) Relative importance of ecological, evolutionary and anthropogenic pressures on extinction risk in Chinese angiosperm genera. _Frontiers in Ecology Evolution_ 10:844509. doi: 10.3389/fevo.2022.844509.
+1. Carruthers T, **_Sun M_**, Baker WJ, Smith SA, de Vos JM, Wolf L. Eiserhardt WL. (2022) The implications of topological incongruence between gene trees and the species tree for divergence time estimation. _Systematic Biology_, syac012. doi: 10.1093/sysbio/syac012.
 1. Liu BB, Ma ZY, Ren C, Hodel R,  **_Sun M_** et al. (2021) Capturing single-copy nuclear genes, organellar genomes, and nuclear ribosomal DNA from deep genome skimming data for plant phylogenetics: A case study in Vitaceae. _Journal of Systematics and Evolution_ 59(5): 1124-1138. doi: 10.1111/jse.12806.
 1. Shimai H, Setoguchi P, Roberts D, **_Sun M_**. (2021) Biogeographical patterns and speciation of the genus Pinguicula (Lentibulariaceae) inferred by phylogenetic analyses. _PLOS ONE_ 16(6): e0252581. doi: 10.1371/journal.pone.0252581.
 1. Lu LM, Hu HH, Peng DX, Liu B, Ye JF, Yang T, Li HL, **_Sun M_**, Smith SA, Soltis PS, Soltis DE, Chen ZD. (2020). Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian. _Journal of Biogeography_ 47: 2286–2291. doi: 10.1111/jbi.13947.
@@ -112,7 +117,7 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 1. Lichman BR, Godden GT, Hamilton JP, Lira PL, Kamileen MO, Zhao D, Vaillancourt B, Wood J, **_Sun M_**, Henry LK, Lopez CR, Dudareva N, Soltis DE, Soltis PS, Buell CR, O’Connor SE. (2020). The evolutionary origins of the cat attractant nepetalactone in catnip. _Science Advances_ 6: eaba0721. doi: 10.1126/sciadv.aba0721.
 1. Mu XY, Tong L, _**Sun M**_, Zhu YX, Wen J, Lin QW, Liu B. (2020). Phylogeny and divergence time estimation of the walnut family (Juglandaceae) based on nuclear RAD-Seq and chloroplast genome data. _Molecular Phylogenetics and Evolution_ 147: 106802. doi: 10.1016/j.ympev.2020.106802.
 1. Xue B, Guo X, Landis JB, **_Sun M_**, Tang CC, Soltis PS, Soltis DE, R.M.K. Saunders RMK. (2019). Accelerated diversification correlated with functional traits shapes extant diversity of the early divergent angiosperm family Annonaceae. _Molecular Phylogenetics and Evolution_ 142: 106659. doi: 10.1016/j.ympev.2019.106659.
-1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (2019). For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_. doi: 10.1002/ecy.2788.
+1. Li DJ, Lauren Trotta L, Marx HE, Allen JM, **_Sun M_**, Soltis DE, Soltis PS, Guralnick RP, Baiser BH. (2019). For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies. _Ecology_ 100( 9): e02788. doi: 10.1002/ecy.2788.
 1. Yang T, Tedersoo L, Soltis PS, Soltis DE, Gilbert JA, **_Sun M_**, Shi Y, Wang HF, Li YT, Zhang J, Chen ZD, Lin HY, Zhao YP, Fu CX, Chu HY. (2018). Phylogenetic imprint of woody plants on the soil mycobiome in natural mountain forests of eastern China. _The ISME Journal_ 13: 686–697.
 1. Marodiev EV, **_Sun M_**, Schroder L, Steadman DW, Ebach MC. (2018). Moving from modern toward post-modern science: comment on “An integrated assessment of the vascular plants of the Americas.” _Phytotaxa_ 351: 96–98.
 1. Folk RA, **_Sun M_**, Soltis PS, Smith SA, Soltis DE, and Guralnick RP. (2018). Challenges of comprehensive taxon sampling in comparative biology: Wrestling with Rosids. _American Journal of Botany_ 105(3): 433–445.
@@ -161,6 +166,10 @@ A phylogenetic tree is a pivotal framework for solving fundamental issues in bio
 1. **Sun M**, Germain-Aubrey CC, Gitzendanner MA, Smith SA, Soltis PS, Chen ZD, Soltis DE. (2016). Wrestling with the Rosids I: progress and challenges for phylogenetics of a large, hyper-diverse angiosperm clade. _Botany Conference 2016 (Savannah, Georgia)_, Abstract ID: 404. (Presentation)
 
 ### Classes Audited  
+
+- **2022**  
+    + [AI in Biology](https://aibiology.github.io/) ( _Zoo4926/Zoo6927_)
+      Instructor: Dr. Matt Gitzendanner (University of Florida, USA)
 
 - **2021**  
     + Macroevolution and Macroecology ( _EEB_800_002_WN_2021_)
@@ -329,11 +338,5 @@ Ann Arbor, MI 48109, USA
 Email: eebsmith@umich.edu  
 Phone: +1 (734) 764-7923  
 
-**Hong Ma** (Collaborator)  
-Department of Biology  
-The Pennsylvania State University  
-510D Mueller Laboratory   
-University Park, PA 16802, USA  
-Email: hxm16@psu.edu  
    
-_Last update: 2021-12-07_
+_Last update: 2022-03-15_

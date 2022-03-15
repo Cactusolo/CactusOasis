@@ -47,19 +47,21 @@ social:
 superuser: true
 title: Miao Sun | 孙苗
 ---
-I'm a postdoctoral researcher in [Plant Evolution & Biodiversity Group](https://peb-group.net/who-are-we) leading by Dr. [Wolf L. Eiserhardt](https://scholar.google.com/citations?user=X419fPAAAAAJ&hl=de) at [Aarhus University](https://bios.au.dk/) in Denmark. 
+[**Miao Sun**](https://faculty.hzau.edu.cn/sunmiao/en/index.htm) is a professor in College of Horticulture and Forestry Sciences, Huazhong Agricultural University in Wuhan, China. His current research interest is manily focusing on the ornamental plants resources and genetic breeding, exploring their key innovation characters/traits along their evolution history by taxonomic, phylogenetics, phylogenomics and other comparative bioinformatics approaches, and by so, his team endeavor to  protect the genetic resources and diversity of ornamental plants.  
+
+**_Several positions in his lab are opening for research assistant, postdoc, and graduate students._** Please contact me via miaosun@mail"dot"hzau"dot"edu"dot"cn or 🐦 "@Miao_the_Sun".  
 
 Former [Soltis Lab](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab/people/principal-investigators/) member. 🐊 _Once gator, always gator!_ 🐊
 
-I have a keen passion for applying phylogenetic tree as a pivotal framework attempting to solve some fundamental issues in biology. Phylogenetic tree is a crucial reference system for biological research. It captures evolutionary relationships among species, linking all the biological data together with an evolutionary context, serving as the biological ["Periodic Table"](https://ptable.com/?lang=en#Properties).  
+Miao has keen passion for applying phylogenetic tree as a pivotal framework attempting to solve some fundamental issues in biology. Phylogenetic tree is a crucial reference system for biological research. It captures evolutionary relationships among species, linking all the biological data together with an evolutionary context.  
 
-My research interests are:  
+His research interests are:  
 
-  * Building and using large-scale phylogenetic trees to explore the evolutionary and/or ecological patterns with spatial and/or paleoclimate data. E.g., some works have done for rosids and PhyloSynth.
+  * Phylogenomics, biogeography, and taxonomy of ornamental plant groups ( e.g., _Elaeagnus_, _Rosa_ )  
+  * Building and using large-scale phylogenetic trees to explore the evolutionary and/or ecological patterns with spatial and/or paleoclimate data. E.g., some works have done for [rosids]({{< relref "/project/rosids/index.md">}}) and [PhyloSynth]({{< relref "/project/PhyloSynth/index.md">}}).  
   
   * Investigating the phylogenetic incongruence among data partitions, and deciphering its potential evolutionary cause  
   
-  * Studying taxonomy, phylogeny, biogeography, origin and dispersal for a focal clade (e.g., *Elaeagnus*)
 
 __When NOT struggling for existence, I occasionally do some coding!!__ 
 
