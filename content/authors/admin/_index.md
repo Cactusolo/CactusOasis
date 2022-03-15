@@ -16,13 +16,13 @@ highlight_name: true
 interests:
 - Phylogeny
 - Taxonomy
-- Diversification
+- Ornamental plants
 - Evolution
 - Bioinformatics
 organizations:
-- name: Aarhus University (Denmark)
-  url: https://international.au.dk/
-role: Postdoctoral Scientist
+- name: Huazhong Agricultural University (China)
+  url: http://www.hzau.edu.cn/
+role: Professor
 social:
 - icon: envelope
   icon_pack: fas
