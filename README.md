@@ -1,6 +1,6 @@
 # Welcome to visit my GitHub Site
 
-**My personal website v0.2 --- [CactusOasis](https://www.sunmiao.name/)**
+**My personal website v0.2 --- [CactusOasis](https://cactusolo.github.io)**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cactusolo&hide_border=true&show_icons=true&theme=merko&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 
