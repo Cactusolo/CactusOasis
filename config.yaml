@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Miao Sun | 孙苗' # Website name
-baseurl: 'https://www.sunmiao.name/' # Website URL
-copyright: '© {2018-2022} Miao Sun' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://cactusolo.github.io/' # Website URL
+copyright: '© {2018-2026} Miao Sun' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
