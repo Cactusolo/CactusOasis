@@ -37,7 +37,8 @@ jobs:
 
       - name: Build site
         run: |
-          Rscript -e 'blogdown::build_site(build_rmd = "timestamp", hugo_args = c("--gc","--minify"))'
+          Rscript -e 'blogdown::build_site(build_rmd = "timestamp")'
+          hugo --gc --minify
 
       - uses: actions/upload-pages-artifact@v3
         with:
