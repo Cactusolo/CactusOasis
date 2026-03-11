@@ -21,9 +21,13 @@ jobs:
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
 
-      - name: Install R packages
-        run: |
-          Rscript -e 'install.packages(c("blogdown","knitr","rmarkdown"))'
+      - name: Setup R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            blogdown
+            knitr
+            rmarkdown
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -33,7 +37,7 @@ jobs:
 
       - name: Build site
         run: |
-          Rscript -e 'blogdown::build_site()'
+          Rscript -e 'blogdown::build_site(build_rmd = "timestamp", hugo_args = c("--gc","--minify"))'
 
       - uses: actions/upload-pages-artifact@v3
         with:
