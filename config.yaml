@@ -72,3 +72,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+security:
+  funcs:
+    getenv:
+      - ^WC_.*
