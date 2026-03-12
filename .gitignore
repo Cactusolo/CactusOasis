@@ -8,4 +8,7 @@
 *.sh
 /resources/
 .DS_Store
-Thumbs.db
+Thumbs.dbpublic/
+resources/
+.Rhistory
+.DS_Store
