@@ -2,8 +2,7 @@ name: Deploy Hugo site
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -11,19 +10,18 @@ permissions:
   id-token: write
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          submodules: false
 
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
 
-      - name: Install R dependencies
+      - name: Setup R dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages: |
@@ -41,23 +39,17 @@ jobs:
           hugo-version: "0.92.2"
           extended: true
 
-      - name: Download Hugo modules
-        run: hugo mod get
-
       - name: Build site
         run: |
           Rscript -e 'blogdown::build_site(build_rmd = "timestamp")'
           hugo --gc --minify
 
-      - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
-
     steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v4
