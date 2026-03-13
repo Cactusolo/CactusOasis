@@ -41,6 +41,7 @@ jobs:
 
       - name: Build site
         run: |
+          export HUGO_MODULE_WORKSPACE=off
           Rscript -e 'blogdown::build_site(build_rmd = "timestamp")'
           hugo --gc --minify
 
